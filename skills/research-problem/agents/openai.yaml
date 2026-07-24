@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Problem"
+  short_description: "Reflect on evolving research questions and approaches"
+  default_prompt: "Use $research-problem to reflect on how my research question and possible approach are developing across my dated notes."

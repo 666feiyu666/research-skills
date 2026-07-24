@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Writing"
+  short_description: "依据共享研究状态进行论文提纲、起草、改写、压缩和审查"
+  default_prompt: "使用 $paper-writing 按共享论证状态处理这份论文文本。"

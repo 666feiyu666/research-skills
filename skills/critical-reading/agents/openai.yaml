@@ -1,0 +1,4 @@
+interface:
+  display_name: "Critical Reading"
+  short_description: "提取学术文本、保留页码并形成可核查的批判性阅读记录"
+  default_prompt: "使用 $critical-reading 阅读这份材料，保留页码并形成批判性阅读记录。"

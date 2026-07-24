@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Editor"
+  short_description: "Review the coherence and needs of an academic project"
+  default_prompt: "Use $research-editor to review the current research question, argument, evidence, literature, and writing as one academic project."
