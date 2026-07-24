@@ -1,4 +1,0 @@
-interface:
-  display_name: "Research Notes"
-  short_description: "整理、去重并维护可追溯的文献笔记、概念与研究问题线索"
-  default_prompt: "使用 $research-notes 整理这些笔记，并更新共享研究状态。"

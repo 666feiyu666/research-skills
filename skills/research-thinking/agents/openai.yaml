@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Thinking"
+  short_description: "构思研究问题、研究设计、论证架构并反思项目的整体学术方向"
+  default_prompt: "使用 $research-thinking 与我一起梳理当前研究问题、可能回答和研究路径。"

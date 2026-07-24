@@ -1,4 +1,0 @@
-interface:
-  display_name: "Literature Scout"
-  short_description: "Discover, verify, and organize scholarly literature"
-  default_prompt: "Use $literature-scout to find, verify, and organize the key literature for this research question."

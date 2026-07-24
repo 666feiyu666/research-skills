@@ -1,4 +1,0 @@
-interface:
-  display_name: "Notes Writing"
-  short_description: "Revise research notes with optional model APIs"
-  default_prompt: "Use $notes-writing to revise this draft while preserving my argument, voice, citations, and uncertainty."

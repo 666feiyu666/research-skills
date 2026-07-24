@@ -1,0 +1,24 @@
+# Copy this file to ~/.config/research-writing/config.toml and edit it once.
+# Select one provider after filling its model.
+# default_provider = "deepseek"
+
+default_instruction = "轻度润色这份学术草稿；保留论点、引文、术语和不确定性表达。"
+
+[providers.openai]
+model = ""
+keychain_service = "research-writing-openai"
+
+[providers.deepseek]
+model = ""
+keychain_service = "research-writing-deepseek"
+
+[providers.doubao]
+model = ""
+keychain_service = "research-writing-doubao"
+# base_url = "https://ark.cn-beijing.volces.com/api/v3"
+
+[providers.qwen]
+model = ""
+keychain_service = "research-writing-qwen"
+# Set the compatible-mode base for your workspace and region.
+base_url = ""

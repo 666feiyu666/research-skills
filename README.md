@@ -4,14 +4,31 @@
 
 ## 当前范围
 
-- `critical-reading`
-- `literature-scout`
-- `notes-writing`
-- `paper-writing`
-- `research-editor`
-- `research-notes`
-- `research-problem`
+- `research-reading`
+- `research-thinking`
+- `research-analysis`
+- `research-writing`
+- `research-managing`
 - `research-publishing`
+
+前五个 skills 构成日常研究循环：
+
+```text
+reading ⇄ thinking ⇄ analysis ⇄ writing
+              ↑            ↓
+          managing 记录整个过程
+```
+
+`research-publishing` 在研究论证和写作产物相对稳定后，将成果转化为演示、摘要、海报、口头报告或公共表达。
+
+各角色的核心边界：
+
+- `reading` 处理学术文献；
+- `thinking` 处理研究问题、设计、论证构思和项目层反思；
+- `analysis` 处理实际研究对象与经验材料；
+- `writing` 创建并持续修改学术文本；
+- `managing` 记录已完成、进行中、未完成、下一步和阻碍，不代替研究判断；
+- `publishing` 面向特定媒介与受众转化稳定研究成果。
 
 ## 目录
 
@@ -35,3 +52,5 @@ Research-Skills/
 - 主要产物路径。
 
 不保存完整 prompt、回复文本或评分。系统 skills、插件 skills 和临时工具不纳入本日志。
+
+2026-07-24 以前的日志保留当时实际调用的旧 skill 名称，不追溯改写为合并后的名称。
