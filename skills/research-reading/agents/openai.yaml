@@ -1,4 +1,4 @@
 interface:
   display_name: "Research Reading"
-  short_description: "搜索、筛选、精读并综合可追溯的学术文献、阅读笔记与文献矩阵"
-  default_prompt: "使用 $research-reading 搜集、阅读并整理与当前研究问题相关的文献。"
+  short_description: "检索、读取 Zotero 附件并分层整理可追溯的学术笔记"
+  default_prompt: "使用 $research-reading 检索、从 Zotero 定位附件或精读文献，并区分来源笔记与加工笔记。"

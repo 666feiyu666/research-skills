@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Manuscript Development"
+  short_description: "按读者、阶段与使用场景发展、评估和修改论文"
+  default_prompt: "使用 $research-manuscript-development 按当前读者、成熟度和使用场景发展或评估这篇论文。"

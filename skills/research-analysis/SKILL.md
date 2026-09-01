@@ -40,11 +40,16 @@ Use the research question or analytical purpose, supplied research objects, rele
 
 Adapt to the task: material inventory, transcription, coded table, sequence map, case memo, descriptive results, model diagnostics, comparative analysis, validation report, or finding-to-evidence table.
 
-## Boundaries and Handoffs
+## Researcher Review
+
+Treat codes, interpretations, comparative judgments, findings, and inferential extensions as researcher-reviewable unless the researcher has confirmed them. Verification of a computation or locator establishes traceability, not automatic agreement with the model's analytical framing.
+
+## Independent Scope and Later Reuse
 
 - Do not invent missing data or infer audience experience from content alone.
 - Do not present a methodological operation as a substantive finding.
-- Use `research-reading` for scholarship about the method or topic.
-- Send implications for the research question, design, or contribution to `research-thinking`.
-- Send traceable findings and evidence to `research-writing`.
-- Send completed and pending analysis tasks to `research-managing`.
+- This Skill independently owns systematic work on the project's actual research objects and empirical materials.
+- It may start from researcher-designated questions, methods, source notes, coding schemes, objects, datasets, or prior results; those inputs do not need to have been produced by another Research Skill.
+- It does not review scholarship, decide the overall research question, draft the manuscript, design a paper portfolio, or track project status.
+- If scholarship, a methodological decision, or a clearer research problem is missing, complete the analysis that the present materials support, state the exact unresolved need and its consequence, and stop at the boundary. Do not automatically invoke, schedule, or assign another Skill.
+- A researcher-reviewed analysis artifact may later be designated as input to thinking, writing, manuscript development, programme design, publishing, or meta-reflection. Preserve provenance, unit of analysis, transformations, evidence locators, inference limits, and review status so later use remains traceable.

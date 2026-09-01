@@ -1,6 +1,6 @@
 # Output Formats
 
-Read this file when producing a literature map, debate table, or search handoff.
+Read this file when producing a literature map, debate table, or reusable search record.
 
 ## Literature Matrix
 

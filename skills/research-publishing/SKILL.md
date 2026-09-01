@@ -36,9 +36,15 @@ Use the researcher-designated paper, argument, outline, examples, audience, venu
 
 Use templates in `templates/` only when they fit the target form.
 
-## Boundaries and Handoffs
+## Researcher Review
+
+Treat transformed structure, emphasis, examples, wording, visuals, speaker notes, and accessibility choices as researcher-reviewable. Fidelity to a source manuscript does not make the model's communication decisions researcher-confirmed.
+
+## Independent Scope and Later Reuse
 
 - Do not introduce new evidence, citations, cases, or claims merely to improve presentation.
 - Do not turn uncertainty into certainty or scholarship into promotional language.
-- If the argument is not stable enough to transform, identify the exact issue and return it to `research-thinking` or `research-writing`.
-- Send confirmed publication tasks and completed outputs to `research-managing` for tracking.
+- This Skill independently owns audience- and medium-specific transformation of a sufficiently stable researcher-designated paper, argument, or outline.
+- Its inputs do not need to have been produced by another Research Skill.
+- If the source argument is not stable enough to transform, complete only the faithful transformation that the present material supports, identify the exact instability and its consequence, and stop at the boundary. Do not automatically invoke, schedule, or assign another Skill.
+- A researcher-reviewed presentation, abstract, poster, public article, or related output may later be designated as input to manuscript revision, another publication transformation, or meta-reflection. Preserve its source artifact, audience, medium, constraints, and review status so later reuse does not silently alter the core claim.
