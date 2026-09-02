@@ -7,6 +7,10 @@ description: Develop and evaluate academic manuscripts according to their curren
 
 Treat a manuscript as an evolving communication object. Establish what the current version must enable for its intended reader before deciding what “finished” means. Work directly on the designated manuscript as an editor, reviewer, or developmental partner, with responsibility for the scenario, quality threshold, priorities, judgment, and requested deliverable.
 
+## Language Routing
+
+Before substantive work, select and read exactly one collaboration workflow: [English](references/workflow.en.md) or [Simplified Chinese](references/workflow.zh-CN.md). Follow an explicit language request first; otherwise use the language of the researcher's current substantive request. The selected workflow governs interaction and user-facing labels, not the language of the designated manuscript, venue material, or sources. Load both only for translation, comparison, or a bilingual audit.
+
 ## Inputs and Authority
 
 Use the current instruction, researcher-designated manuscript and sources, intended reader, maturity, target venue, feedback, constraints, and requested destination. Do not infer authority from recency, filenames, or file existence. Ask only when an unresolved choice would materially change the output.

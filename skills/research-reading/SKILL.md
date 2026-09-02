@@ -7,6 +7,10 @@ description: Discover, screen, retrieve, verify, closely read, and synthesize sc
 
 Keep literature evidence, source-faithful reconstruction, and later intellectual processing distinct within one connected workflow.
 
+## Language Routing
+
+Before substantive work, select and read exactly one collaboration workflow: [English](references/workflow.en.md) or [Simplified Chinese](references/workflow.zh-CN.md). Follow an explicit language request first; otherwise use the language of the researcher's current substantive request. The selected workflow governs interaction and user-facing labels, not the language of sources or an existing reading artifact. Load both only for translation, comparison, or a bilingual audit.
+
 ## Inputs
 
 Use the question, scope, language, supplied texts, Zotero item query or key, existing notes, and requested output. Read only project context that materially helps. Do not require fixed filenames.
@@ -67,9 +71,9 @@ A processed note may follow the author’s or researcher’s question, a concept
 6. Preserve source content and location. For important definitions, questions, argumentative moves, answers, examples, qualifications, tables, figures, and footnotes, record a paraphrase and locator; add a short original-language excerpt when it directly supports the point. Mark translations and OCR uncertainty.
 7. For `source-noting`, follow the author's order. Add a `source-entry` before a long record rather than deleting detail. State the question, why it arises, the argument route, answer, and indispensable distinctions; attach verified excerpts and locators when available.
 8. Keep the detailed source record below the entry. Preserve argumentative transitions and functions, not every sentence. Distinguish the author's claim from the note writer's explanation.
-9. For `researcher-processing`, use an explicit organizing line and verified notes or full text. Preserve excerpts and locators for definitions, contested claims, argumentative steps, and answers. Separate `[作者主张]`, `[研究者表述]`, and `[模型建议]`.
+9. For `researcher-processing`, use an explicit organizing line and verified notes or full text. Preserve excerpts and locators for definitions, contested claims, argumentative steps, and answers. Separate `[author claim]`, `[researcher wording]`, and `[model suggestion]`; use the selected localized workflow's equivalent labels in user-facing artifacts.
 10. When the researcher identifies a source-based puzzle, tension, or ambiguity, preserve it in the researcher's own terms. If the researcher proposes a resolution, check its internal coherence and whether it is source-supported, source-compatible, an extension, or a conflict. Do not require every processed note to contain a puzzle or resolution.
-11. Do not label model-generated prose as the researcher's understanding. If the researcher has not supplied a formulation, offer prompts, a source-grounded candidate, or a structure labeled `[模型建议／待研究者确认]`; do not supply a polished resolution before the researcher has begun formulating one.
+11. Do not label model-generated prose as the researcher's understanding. If the researcher has not supplied a formulation, offer prompts, a source-grounded candidate, or a structure labeled `[model suggestion / researcher confirmation needed]`; use the selected localized workflow's equivalent label in user-facing artifacts. Do not supply a polished resolution before the researcher has begun formulating one.
 12. For synthesis, preserve source attribution, differences among works, changes across editions or dates, and unresolved conflicts.
 13. Write to the user-specified file or return the requested artifact. Do not silently update research questions, arguments, or manuscript text.
 
@@ -79,14 +83,14 @@ Classify the note state; check source content and locations; separate author cla
 
 ## Outputs and Resources
 
-Adapt output to the mode. Use these resources only when helpful; templates are optional:
+Adapt output to the mode. Use these resources only when helpful; templates are optional. Select the `.en.md` or `.zh-CN.md` variant according to the intended artifact language:
 
-- `templates/reading-record.md` for a source-entry plus detailed source record;
-- `templates/source-route-map.md` for a work-level or multi-chapter source route;
-- `templates/processed-note.md` for researcher processing;
-- `templates/note-batch.md` for consolidating existing fragments;
-- `templates/literature-matrix.md` for cross-source comparison;
-- `references/output-formats.md` for discovery and comparison formats.
+- `templates/reading-record.{locale}.md` for a source-entry plus detailed source record;
+- `templates/source-route-map.{locale}.md` for a work-level or multi-chapter source route;
+- `templates/processed-note.{locale}.md` for researcher processing;
+- `templates/note-batch.{locale}.md` for consolidating existing fragments;
+- `templates/literature-matrix.{locale}.md` for cross-source comparison;
+- `references/output-formats.{locale}.md` for discovery and comparison formats.
 
 ## Researcher Review
 

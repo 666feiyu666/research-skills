@@ -7,6 +7,10 @@ description: Transform a sufficiently stable research argument or manuscript int
 
 Treat publishing as a late-stage transformation of research, not a compressed copy of the manuscript and not a substitute for unfinished thinking or writing.
 
+## Language Routing
+
+Before substantive work, select and read exactly one collaboration workflow: [English](references/workflow.en.md) or [Simplified Chinese](references/workflow.zh-CN.md). Follow an explicit language request first; otherwise use the language of the researcher's current substantive request. The selected workflow governs interaction and user-facing labels; determine the publication artifact's language separately from its audience, venue, and source material. Load both only for translation, comparison, or a bilingual audit.
+
 ## Inputs
 
 Use the researcher-designated paper, argument, outline, examples, audience, venue, format, duration or word limit, and output destination. Do not require fixed project filenames.
@@ -34,7 +38,7 @@ Use the researcher-designated paper, argument, outline, examples, audience, venu
 4. Produce the requested artifact at the designated destination.
 5. Check fidelity to the source argument, audience fit, pacing, legibility, and evidentiary boundaries.
 
-Use templates in `templates/` only when they fit the target form.
+Use templates in `templates/` only when they fit the target form. Select `.en.md` or `.zh-CN.md` variants according to the intended publication artifact language.
 
 ## Researcher Review
 

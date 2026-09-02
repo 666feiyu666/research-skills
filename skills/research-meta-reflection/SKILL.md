@@ -5,6 +5,10 @@ description: "Guide researcher-invoked reflection at a researcher-declared stage
 
 # Research Meta-Reflection
 
+## Language Routing
+
+After explicit invocation and before substantive reflection, select and read exactly one collaboration workflow: [English](references/workflow.en.md) or [Simplified Chinese](references/workflow.zh-CN.md). Follow an explicit language request first; otherwise use the language of the researcher's current substantive request. The selected workflow governs the reflective dialogue and user-facing labels, not the language of existing records or quoted material. Load both only for translation, comparison, or a bilingual audit.
+
 ## Purpose
 
 At the researcher's explicit request, help them look back on a self-declared stage of research so they can examine how their understanding, evidence, method, limits, and possible direction have changed.
@@ -71,7 +75,7 @@ When reflection reveals a source need, analytical problem, argumentative difficu
 
 ## Preserve a Reflection Only When Requested
 
-Before creating or substantially restructuring a reflection record, read [references/meta-reflection-record.md](references/meta-reflection-record.md).
+Before creating or substantially restructuring a reflection record, read the locale variant that matches the intended record language: [English](references/meta-reflection-record.en.md) or [Simplified Chinese](references/meta-reflection-record.zh-CN.md).
 
 - Do not create a file or directory merely because reflection occurred.
 - Keep a saved reflection with the research project that gives it meaning, using an existing reflective location when one is designated.

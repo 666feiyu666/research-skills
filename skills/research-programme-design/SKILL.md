@@ -7,6 +7,10 @@ description: Help a researcher design and revisit programme-level directions, pa
 
 Help the researcher compare and articulate a coherent but revisable programme of scholarship without reducing a broad intellectual territory to one paper or optimizing publication activity as an end in itself. Make relationships, priorities, dependencies, sequencing choices, and their consequences visible without choosing the researcher's commitments. Keep proposed routes researcher-reviewable until the researcher confirms them.
 
+## Language Routing
+
+Before substantive work, select and read exactly one collaboration workflow: [English](references/workflow.en.md) or [Simplified Chinese](references/workflow.zh-CN.md). Follow an explicit language request first; otherwise use the language of the researcher's current substantive request. The selected workflow governs interaction and user-facing labels, not the language of existing programme artifacts, manuscripts, venues, or sources. Load both only for translation, comparison, or a bilingual audit.
+
 ## Inputs and Authority
 
 Start from the researcher's themes, projects, questions, manuscripts, evidence, methods, commitments, opportunities, constraints, and desired scholarly development. Use only the files or project state the researcher identifies as relevant; do not infer that the newest artifact is authoritative or that a file's existence proves readiness.

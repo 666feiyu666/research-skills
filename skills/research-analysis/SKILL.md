@@ -7,6 +7,10 @@ description: Prepare, examine, code, compare, interpret, and validate the projec
 
 Analyze the project's actual research objects while keeping observations, transformations, interpretations, and inferences distinguishable.
 
+## Language Routing
+
+Before substantive work, select and read exactly one collaboration workflow: [English](references/workflow.en.md) or [Simplified Chinese](references/workflow.zh-CN.md). Follow an explicit language request first; otherwise use the language of the researcher's current substantive request. The selected workflow governs interaction and user-facing labels, not the language of an existing artifact or source. Load both only for translation, comparison, or a bilingual audit.
+
 ## Inputs
 
 Use the research question or analytical purpose, supplied research objects, relevant method or coding scheme, known provenance, and requested output. Do not require a fixed directory structure. Preserve original materials and work on derived copies when transformation is needed.

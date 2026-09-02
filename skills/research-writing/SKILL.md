@@ -7,6 +7,10 @@ description: Create and revise academic outlines, section architectures, optiona
 
 Use only materials supplied or designated for the task. Do not require a fixed project-file schema.
 
+## Language Routing
+
+Before substantive work, select and read exactly one collaboration workflow: [English](references/workflow.en.md) or [Simplified Chinese](references/workflow.zh-CN.md). Follow an explicit language request first; otherwise use the language of the researcher's current substantive request. The selected workflow governs discussion and user-facing labels; preserve an existing manuscript's language and determine a new artifact's language separately. Load both only for translation, comparison, or a bilingual audit.
+
 ## Authority and Objects
 
 Prioritize: current instruction; researcher-confirmed decisions and outlines; designated source or seed outline; active working artifact; supplementary context. Do not infer confirmation from recency, filenames, or file existence.
@@ -43,11 +47,11 @@ Architecture governs structure; a paragraph plan does not. Return to architectur
    - Create a paragraph plan only when requested or genuinely useful. Never make it a prerequisite by default.
 4. Keep architecture compressed: state each unit's task, claim or output, relation to adjacent units, evidence families, and inference boundary. Avoid proto-prose, fixed paragraph counts, and sentence scripts. If boundaries are difficult, add a concise optional **Section Contract**: Owns, Inputs, Produces, Reserves, Must not claim. Ask for confirmation only of choices that block writing.
 5. Draft for argumentative movement rather than mechanically filling a plan. Merge, split, add, remove, or reorder paragraphs when structure remains intact. If drafting exposes a local problem, revise the prose; return to architecture only for a structural problem.
-6. Mark genuine gaps specifically with `[需证据]`, `[需引用]`, `[待核页码]`, or `[待确认]`; never fill them by invention.
+6. Mark genuine gaps specifically with `[evidence needed]`, `[citation needed]`, `[page to verify]`, or `[researcher confirmation needed]`; use the selected localized workflow's equivalent labels in user-facing artifacts, and never fill gaps by invention.
 7. Revise in place by default. Preserve numbered versions when the user requests versioning, an existing `vN` sequence establishes it, or a substantive revision should remain recoverable. Record lineage only when it helps distinguish governing sources.
 8. Deliver the requested artifact first, then briefly report substantive changes, unresolved gaps, and any decision that truly requires confirmation. Identify project-level conflicts as unresolved rather than silently changing the global argument.
 
-Templates in `templates/` are optional.
+Templates in `templates/` are optional. Select `.en.md` or `.zh-CN.md` variants according to the intended artifact language.
 
 ## Authorship and Evidence
 
