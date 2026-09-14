@@ -27,6 +27,6 @@ Keep these separate from source notes. Do not present them as the author's concl
 
 ## Items that may support later research thinking
 
-Record only researcher-confirmed items that the researcher may later designate as input to another task. This note does not launch or assign later work.
+Confirmed items and unresolved questions may both be recorded; distinguish their origin and status. The researcher decides whether to use them later. Unconfirmed suggestions must not be treated as confirmed judgments. This note does not launch or assign later work.
 
 - [unresolved question]

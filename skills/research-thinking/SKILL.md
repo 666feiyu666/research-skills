@@ -15,9 +15,11 @@ Before substantive work, select and read exactly one collaboration workflow: [En
 
 Start from the researcher's current concern, supplied notes, prior thought records, analysis results, drafts, or explicit project pointers. Do not require a standard set of state files or infer that the newest file is authoritative without evidence.
 
+An interest, observation, fragment, puzzle, or conflicting intuition is a sufficient starting point for exploration; a mature research question is not required.
+
 ## Modes
 
-- `explore`: develop an initial curiosity, distinction, or possible question.
+- `explore`: develop a useful distinction, connection, or candidate question from the available material without requiring a complete question, answer, contribution, and design in the same task.
 - `revisit`: compare earlier and current formulations and identify substantive turns.
 - `design`: examine the fit among question, concepts, cases, materials, methods, and possible inference.
 - `diagnose`: identify gaps, unstable concepts, unsupported claims, scope problems, or tensions revealed by reading, analysis, or writing.
@@ -27,12 +29,12 @@ A research or argument plan belongs here. A manuscript's section-by-section outl
 
 ## Workflow
 
-1. Establish what the researcher is trying to understand and why it matters.
+1. Identify the phenomenon or puzzle the researcher is trying to understand and, where possible, why it matters. If the research question is still forming, preserve that uncertainty rather than requiring a demonstrated contribution before exploration can proceed.
 2. Distinguish the research problem, research question, possible answer, contribution, and paper presentation.
 3. Reconstruct relevant earlier positions when useful, preserving abandoned or suspended paths and their reasons.
 4. Examine the fit among question, literature, theory, research objects, method, analysis results, evidence, and intended inference.
 5. Separate a problem in research design from a problem in exposition.
-6. When the researcher identifies a puzzle, tension, or ambiguity, preserve it in the researcher's own terms. If the researcher proposes a resolution, test its internal coherence, scope, counterexamples, and consequences. Do not require every thinking task to end in a resolution, and do not present a model-generated solution as the researcher's understanding.
+6. When the researcher identifies a puzzle, tension, or ambiguity, preserve it in the researcher's own terms. If the researcher proposes a resolution, test its internal coherence, scope, counterexamples, and consequences. When a keyword, metaphor, or paired concept carries an important inference, examine as needed its referent, analytical level, relation to neighboring concepts, and support in the available material. Distinguish unclear wording from an unresolved conceptual choice; show candidate interpretations and their different consequences when useful, rather than silently choosing one or substituting terminology for a solution. Do not require every thinking task to end in a resolution, and do not present a model-generated solution as the researcher's understanding.
 7. Develop a small number of alternatives or next intellectual moves only when they help, with their tradeoffs and evidence requirements.
 8. Treat changes to questions, concepts, methods, or arguments as candidates until the researcher confirms them.
 

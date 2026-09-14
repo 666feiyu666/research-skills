@@ -1,17 +1,17 @@
 # Paragraph Plan: {{section}}
 
 - **Status:** provisional
-- **Confirmed section architecture used:**
+- **Section task or structure used, with its status:** may come directly from researcher-designated material
 - **Working artifact:**
 - **Purpose:** an adjustable local implementation aid for drafting; not a new structural contract
 
-> Each paragraph must identify the subsection or sub-subsection it serves. Keep entries concise; do not prewrite full sentences, enumerate every qualification, or freeze paragraph count and boundaries as structural decisions.
+> Explain the section task or local claim each paragraph serves; name a structural unit only when that hierarchy exists. Keep entries concise; do not prewrite full sentences, enumerate every qualification, or freeze paragraph count and boundaries as structural decisions.
 
-| Provisional paragraph | Structural unit | Local function | Key material / evidence | Relation to adjacent moves |
+| Provisional paragraph | Task / claim served | Local function | Key material / evidence | Relation to adjacent moves |
 | --- | --- | --- | --- | --- |
 
 ## Adjustments during drafting
 
 - Paragraphs that may be merged, split, added, removed, or reordered directly:
-- Questions that would change the confirmed architecture and require renewed confirmation:
+- Choices that may change established section responsibilities or claims, and their effects; distinguish supported provisional proposals from decisions that block the requested writing. Do not silently replace confirmed decisions:
 - `[evidence needed]` / `[citation needed]` / `[page to verify]` / `[researcher confirmation needed]`:

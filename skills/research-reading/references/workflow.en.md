@@ -16,3 +16,5 @@ Use stable distinctions such as `bibliographic lead`, `abstract screened`, `full
 ## Interaction and output
 
 Answer the live reading question first, then show the source basis and any access or interpretation limit. Keep source reconstruction separate from later synthesis. When producing a durable note, expose model compression, comparison, or inference and return the note for researcher review. Avoid bilingual duplication unless it helps a defined reading purpose.
+
+For early exploration, use labels such as `reading thread`, `potential connection`, and `use not yet clear` without demanding a paper contribution. When a connection to a designated proposition is requested, explain `source support`, `candidate use`, and `inference still needed` in plain language.

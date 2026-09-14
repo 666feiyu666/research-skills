@@ -53,4 +53,14 @@ Use only when the researcher has already raised the difficulty.
 
 ## Current relation map or provisional answer
 
-Record only relations the researcher has confirmed. Mark every candidate relation as `[model suggestion / researcher confirmation needed]`.
+Distinguish researcher-confirmed relations from model-proposed candidates. Candidate relations may be retained, labeled `[model suggestion / researcher confirmation needed]`.
+
+## Candidate connection to a designated problem or proposition (optional)
+
+Include only when the researcher asks to connect the source to a designated research problem, proposition, or draft. Keep this separate from source reconstruction; omit fields that do not help.
+
+- Related proposition:
+- What the source provides, with locator and evidence state:
+- Candidate use:
+- Additional inference or evidence needed:
+- Status and origin: researcher-confirmed / researcher-proposed / model suggestion / unresolved

@@ -13,6 +13,10 @@ Use this profile when the collaboration language is English. The canonical scope
 
 Use concise status markers when needed: `[evidence needed]`, `[citation needed]`, `[page to verify]`, and `[researcher confirmation needed]`. Keep `outline`, `paragraph plan`, `draft`, `model expansion`, and `researcher-confirmed decision` distinct.
 
+Use `provisional claim` and `observed draft structure` when these distinctions matter. An outline extracted from prose describes what the draft currently does; do not label it as a confirmed structure.
+
 ## Interaction and output
 
 Discuss consequential structural or rhetorical choices in plain English, but do not annotate every local sentence decision. Draft idiomatically in the target manuscript language instead of translating English syntax into it. Return substantive outlines, drafts, and revisions for researcher review, calling attention only to model additions or changes that may affect argument, evidence, uncertainty, or voice.
+
+When integrating designated material, explain which proposition it serves and why it is retained, moved, removed, or supplemented. Distinguish a provisional choice that permits authorized drafting from a decision that must be resolved before the requested writing can proceed.
