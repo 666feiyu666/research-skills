@@ -10,7 +10,9 @@
 
 | Note status | Label | Source wording or accurate paraphrase | Theme / concept | Argumentative role | Source locator | Action |
 | --- | --- | --- | --- | --- | --- | --- |
-| source-record/source-entry/processed-note | [author claim]/[researcher judgment]/[model suggestion] | short quotation plus necessary explanation |  | context/definition/evidence/counterexample/method |  | add/merge/preserve conflict |
+| reading-session/knowledge-card/question-card/processed-note | [author claim]/[researcher judgment]/[model suggestion] | short quotation plus necessary explanation |  | context/definition/evidence/counterexample/method |  | add/merge/preserve conflict |
+
+Update the relevant source record only with the resulting artifact link, a one-line retrieval description, actual coverage, and review state. Do not copy the candidate note into the source record.
 
 ## Candidate terms
 

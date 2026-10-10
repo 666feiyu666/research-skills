@@ -1,82 +1,42 @@
-# Source Reading Record: {{citation-key}}
+# Source Record: {{citation-key}}
 
-## Bibliographic and access information
+> Function: provide a compact work-level index of what has actually been read and discussed, and of the sessions and cards produced from that work. This is not a comprehensive summary of the source.
+
+## Source identity and access
 
 - Title / author / year: include verified fields only
+- Publication or container:
 - Access route: user supplied / project file / Zotero / online source
 - Zotero identifiers, if applicable: item key / attachment key
-- Attachment information, if applicable: filename / contentType / linkMode
-- Actual source file: resolved local path or stable source
-- Access state: attachment located / file opened / access blocked
-- Evidence state: full text checked / abstract or preview / secondary account
-- Processing: text layer / OCR (verify against page image)
-- Pagination note: relationship between PDF page index and printed pagination
-- Processing limitations:
+- Evidence state: discovered / bibliographically verified / abstract or preview verified / full-text verified / secondary-only
+- Access or processing limitations:
 
-## Entering the work or chapter
+## Actual reading coverage
 
-### What question does the author pursue?
+- Portions discussed or checked: chapters / pages / sections
+- Coverage note: state what the reading work touched; do not infer coverage of the remainder
+- Last updated:
 
-- [author question] accurate statement:
-- [short quotation] “…”
-- [source locator] page / chapter / paragraph:
+## Reading sessions
 
-### Why does this question arise?
-
-- Context, theoretical opponent, or prior difficulty:
-- [short quotation, if available] “…”
-- [source locator]:
-
-### How does the author advance the argument?
-
-| Step | Author's argumentative move | Source wording: short quotation plus necessary explanation | Function | Page / locator |
+| Date | Session | What was discussed | Coverage or locators | Review state |
 | --- | --- | --- | --- | --- |
-| 1 | pose question / distinguish / rebut / exemplify / pivot / infer | “…”; explanation |  |  |
+|  | [session title](path) | one-line retrieval description |  |  |
 
-### How does the author answer?
+## Knowledge cards
 
-- [author answer] accurate summary:
-- [short quotation] “…”
-- [source locator]:
-- [qualifications]:
+| Card | What it preserves | Related session | Review state |
+| --- | --- | --- | --- |
+| [card title](path) | one-line retrieval description; do not duplicate the card | [session](path) |  |
 
-### Distinctions that must be preserved
+## Question cards
 
-- A is not B: source basis and locator
+| Card | What remains open | Related session | Review state |
+| --- | --- | --- | --- |
+| [card title](path) | one-line retrieval description; do not duplicate the card | [session](path) |  |
 
-## Chapter and passage route
+## Record limits
 
-| Page / locator | Chapter or passage | What the author accomplishes here |
-| --- | --- | --- |
-
-## Detailed source record
-
-### {{argumentative-unit-named-in-source-order}}
-
-- [author claim]:
-- [source wording] “short quotation”; necessary accurate paraphrase or explanation
-- [evidence / example]:
-- [argumentative role]:
-- [qualification / counterexample]:
-- [source locator]:
-- [verification state]: checked against page / OCR requires page check
-
-## Core concepts
-
-### {{concept}}
-
-- [author's definition or usage]:
-- [short quotation] “…”
-- [source locator]:
-- [distinction from adjacent concepts]:
-
-## Key evidence, tables, figures, and notes
-
-| Type | Source wording or accurate summary | Author's use | Page / locator | Verification state |
-| --- | --- | --- | --- | --- |
-
-## Unresolved and awaiting researcher processing
-
-- [unresolved in source]:
-- [researcher question]:
-- [model suggestion / researcher confirmation needed]:
+- This file indexes only reading work that actually occurred.
+- Untouched parts of the source are not represented.
+- Detailed dialogue belongs in sessions; reusable knowledge and open questions belong in cards.

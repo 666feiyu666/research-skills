@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Review"
+  short_description: "按稿件阶段、目标读者与投稿场景进行有优先级的学术评审"
+  default_prompt: "使用 $research-review 评审这份稿件，重建其最强版本并给出有优先级的修改建议。"

@@ -1,59 +1,45 @@
 ---
 name: research-analysis
-description: Prepare, examine, code, compare, interpret, and validate the project's actual research objects and empirical materials, including texts, archives, images, video, comments, interviews, observations, datasets, model outputs, and computational results. Use for qualitative, quantitative, computational, multimodal, sequence, case, or comparative analysis that produces traceable findings. Do not use for reviewing scholarship, deciding the overall research question, drafting the paper, or tracking project progress.
+description: Prepare, examine, code, compare, interpret, and validate the project's primary research objects and empirical materials, including texts, archives, images, video, interviews, observations, datasets, model outputs, and computational results. Use when the task must produce traceable observations or findings from those materials. Do not use for scholarship review, manuscript drafting, research planning, or prose polishing.
 ---
 
 # Research Analysis
 
-Analyze the project's actual research objects while keeping observations, transformations, interpretations, and inferences distinguishable.
+Analyze actual research materials while keeping observation, transformation, coding, interpretation, and inference distinguishable.
 
-## Language Routing
+## Scope and Modes
 
-Before substantive work, select and read exactly one collaboration workflow: [English](references/workflow.en.md) or [Simplified Chinese](references/workflow.zh-CN.md). Follow an explicit language request first; otherwise use the language of the researcher's current substantive request. The selected workflow governs interaction and user-facing labels, not the language of an existing artifact or source. Load both only for translation, comparison, or a bilingual audit.
+Use the researcher's analytical question or purpose, designated materials, provenance, relevant method or coding scheme, and requested output.
 
-## Inputs
+Modes include:
 
-Use the research question or analytical purpose, supplied research objects, relevant method or coding scheme, known provenance, and requested output. Do not require a fixed directory structure. Preserve original materials and work on derived copies when transformation is needed.
-
-## Modes
-
-- `prepare`: inventory, transcribe, clean, segment, normalize, or document materials.
-- `describe`: establish what is present before applying explanatory categories.
-- `code`: apply or develop a qualitative, quantitative, or mixed coding scheme.
-- `interpret`: conduct textual, visual, rhetorical, narrative, ethnographic, case, sequence, or multimodal analysis.
-- `compute`: run reproducible statistical, computational, model-based, or simulation analysis with appropriate specialist tools.
-- `compare`: examine cases, periods, platforms, groups, or model variants.
-- `validate`: inspect robustness, negative cases, alternative explanations, measurement limits, or reproducibility.
+- `prepare`: inventory, transcribe, clean, segment, normalize, or document materials;
+- `describe`: establish what is present before explanation;
+- `code`: apply or develop a qualitative, quantitative, or mixed coding scheme;
+- `interpret`: conduct textual, visual, rhetorical, narrative, ethnographic, case, sequence, or multimodal analysis;
+- `compute`: run reproducible statistical, computational, model-based, or simulation analysis;
+- `compare`: examine cases, periods, platforms, groups, or model variants;
+- `validate`: test robustness, negative cases, alternative explanations, measurement limits, or reproducibility.
 
 ## Workflow
 
-1. State the analytical question, unit of analysis, material scope, and intended inference.
-2. Record source, date, selection, missingness, access limits, and any transformation applied to the material.
-3. Choose a method that can answer the analytical question. Use specialized code, spreadsheet, statistical, transcription, image, or document tools when needed.
-4. Separate:
+1. State the analytical question, unit of analysis, material scope, selection basis, and intended inference.
+2. Record provenance, dates, missingness, access limits, and transformations that affect interpretation.
+3. Choose a method capable of answering the question. Use specialist code, spreadsheet, statistical, transcription, image, or document tools when needed.
+4. Keep separate:
    - raw observation or value;
    - preprocessing or segmentation;
    - code, category, or measurement;
    - interpretation;
    - inference and its limits.
-5. Preserve links from findings to timestamps, rows, files, passages, cases, or run identifiers.
-6. Examine disconfirming evidence, anomalies, alternative explanations, and the boundary between the case and broader claims.
-7. Save the analysis artifact at the requested location without overwriting original data.
+5. Link findings to timestamps, rows, files, passages, cases, or run identifiers.
+6. Examine disconfirming evidence, anomalies, alternative explanations, and the boundary between the material and broader claims.
+7. Save only the requested analysis artifact and never overwrite original data.
 
-## Outputs
+Return the form suited to the task: inventory, transcription, coded table, sequence map, case memo, descriptive results, model diagnostics, comparative analysis, validation note, or finding-to-evidence table.
 
-Adapt to the task: material inventory, transcription, coded table, sequence map, case memo, descriptive results, model diagnostics, comparative analysis, validation report, or finding-to-evidence table.
+## Boundaries
 
-## Researcher Review
+Do not invent missing data, infer audience experience from content alone, or present a methodological operation as a finding. State exact methodological or evidentiary limits rather than compensating for them with confident interpretation.
 
-Treat codes, interpretations, comparative judgments, findings, and inferential extensions as researcher-reviewable unless the researcher has confirmed them. Verification of a computation or locator establishes traceability, not automatic agreement with the model's analytical framing.
-
-## Independent Scope and Later Reuse
-
-- Do not invent missing data or infer audience experience from content alone.
-- Do not present a methodological operation as a substantive finding.
-- This Skill independently owns systematic work on the project's actual research objects and empirical materials.
-- It may start from researcher-designated questions, methods, source notes, coding schemes, objects, datasets, or prior results; those inputs do not need to have been produced by another Research Skill.
-- It does not review scholarship, decide the overall research question, draft the manuscript, design a paper portfolio, or track project status.
-- If scholarship, a methodological decision, or a clearer research problem is missing, complete the analysis that the present materials support, state the exact unresolved need and its consequence, and stop at the boundary. Do not automatically invoke, schedule, or assign another Skill.
-- A researcher-reviewed analysis artifact may later be designated as input to thinking, writing, manuscript development, programme design, publishing, or meta-reflection. Preserve provenance, unit of analysis, transformations, evidence locators, inference limits, and review status so later use remains traceable.
+Treat codes, interpretations, comparisons, findings, and inferential extensions as researcher-reviewable. This skill may use designated questions, plans, literature notes, coding schemes, or prior results as inputs, but it does not modify them, draft the paper, decide the overall research problem, or update project status.

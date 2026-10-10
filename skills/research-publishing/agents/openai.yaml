@@ -1,4 +1,4 @@
 interface:
   display_name: "Research Publishing"
-  short_description: "将稳定研究成果转化为演示、摘要、海报、口头报告与公共表达"
-  default_prompt: "使用 $research-publishing 将这份研究成果转化为指定的发布形式。"
+  short_description: "将稳定研究成果转化为适合媒介、受众与场合的学术表达"
+  default_prompt: "使用 $research-publishing 将这份稳定研究成果转化为指定的发布或演示形式。"

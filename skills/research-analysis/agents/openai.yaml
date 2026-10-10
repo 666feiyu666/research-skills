@@ -1,4 +1,4 @@
 interface:
   display_name: "Research Analysis"
-  short_description: "处理、分析并验证文本、影像、数据等实际研究对象与经验材料"
-  default_prompt: "使用 $research-analysis 对这些实际研究材料进行可追溯的分析。"
+  short_description: "处理、分析并验证实际研究材料，保持观察与推论可追溯"
+  default_prompt: "使用 $research-analysis 对这些研究对象或经验材料进行可追溯的分析，并区分观察、解释与推论。"

@@ -1,54 +1,35 @@
 ---
 name: research-publishing
-description: Transform a sufficiently stable research argument or manuscript into conference slides, Beamer, oral presentations, abstracts, posters, public articles, or other audience- and medium-specific outputs. Use when Codex needs to adapt structure, pacing, examples, screen text, speaker notes, information density, or accessibility for publication and presentation. Do not use to stabilize an unresolved research question, fabricate engaging material, or silently change the core claim.
+description: Adapt a sufficiently stable research argument or manuscript into conference slides, Beamer, oral presentations, abstracts, posters, public articles, or other audience- and medium-specific outputs. Use when structure, pacing, examples, screen text, notes, density, or accessibility must change for a publication form. Do not stabilize the core research argument, invent engaging material, or silently change the claim.
 ---
 
 # Research Publishing
 
-Treat publishing as a late-stage transformation of research, not a compressed copy of the manuscript and not a substitute for unfinished thinking or writing.
-
-## Language Routing
-
-Before substantive work, select and read exactly one collaboration workflow: [English](references/workflow.en.md) or [Simplified Chinese](references/workflow.zh-CN.md). Follow an explicit language request first; otherwise use the language of the researcher's current substantive request. The selected workflow governs interaction and user-facing labels; determine the publication artifact's language separately from its audience, venue, and source material. Load both only for translation, comparison, or a bilingual audit.
+Transform stable research for a specific audience and medium. A publication artifact is not a compressed manuscript and not a substitute for unfinished thinking or writing.
 
 ## Inputs
 
-Use the researcher-designated paper, argument, outline, examples, audience, venue, format, duration or word limit, and output destination. Do not require fixed project filenames.
+Use the researcher-designated argument, outline, paper, examples, audience, venue, medium, duration or word limit, target language, and destination. Preserve the source artifact as the intellectual authority unless the researcher explicitly authorizes a substantive change.
 
-## Modes
-
-- conference or defense slide deck;
-- Beamer deck;
-- oral presentation and speaker notes;
-- academic abstract;
-- poster structure;
-- public-facing article;
-- other explicitly requested research communication format.
+Common outputs include slide or Beamer decks, oral presentations and speaker notes, abstracts, posters, public-facing articles, and other explicitly requested research communication formats.
 
 ## Workflow
 
-1. Establish the target audience, venue, medium, duration or length, language, and desired output.
-2. Extract the stable central claim, necessary reasoning, strongest evidence, limits, and terminology from the supplied research artifact.
-3. Redesign the order and density for the medium:
-   - slides need screen-level claims, visual pacing, and speaker notes;
-   - oral presentations need transitions, timing, and recoverable explanations;
-   - abstracts need problem, gap, approach, finding or claim, contribution, and limits;
+1. Establish the audience, venue, medium, duration or length, language, accessibility needs, and intended result.
+2. Extract the stable central claim, necessary reasoning, strongest evidence, limits, and terminology from the designated source.
+3. Redesign order and density for the medium:
+   - slides need screen-level claims, visual pacing, and speaker support;
+   - oral presentations need timing, transitions, and recoverable explanations;
+   - abstracts need a compact problem, approach, claim or finding, contribution, and limits;
    - posters need a visible reading path and selective evidence;
    - public articles need conceptual access without distorting the scholarship.
 4. Produce the requested artifact at the designated destination.
-5. Check fidelity to the source argument, audience fit, pacing, legibility, and evidentiary boundaries.
+5. Check fidelity to the source argument, audience fit, pacing, legibility, accessibility, and evidentiary boundaries.
 
-Use templates in `templates/` only when they fit the target form. Select `.en.md` or `.zh-CN.md` variants according to the intended publication artifact language.
+Use templates in `templates/` only when they fit. Choose any locale variant by the target artifact language, not automatically by the conversation language.
 
-## Researcher Review
+## Boundaries
 
-Treat transformed structure, emphasis, examples, wording, visuals, speaker notes, and accessibility choices as researcher-reviewable. Fidelity to a source manuscript does not make the model's communication decisions researcher-confirmed.
+Do not introduce new evidence, citations, cases, personal experience, or claims merely to improve presentation. Do not turn uncertainty into certainty or scholarship into promotional language. If the source argument is not stable enough, transform only what the present material supports and identify the exact instability.
 
-## Independent Scope and Later Reuse
-
-- Do not introduce new evidence, citations, cases, or claims merely to improve presentation.
-- Do not turn uncertainty into certainty or scholarship into promotional language.
-- This Skill independently owns audience- and medium-specific transformation of a sufficiently stable researcher-designated paper, argument, or outline.
-- Its inputs do not need to have been produced by another Research Skill.
-- If the source argument is not stable enough to transform, complete only the faithful transformation that the present material supports, identify the exact instability and its consequence, and stop at the boundary. Do not automatically invoke, schedule, or assign another Skill.
-- A researcher-reviewed presentation, abstract, poster, public article, or related output may later be designated as input to manuscript revision, another publication transformation, or meta-reflection. Preserve its source artifact, audience, medium, constraints, and review status so later reuse does not silently alter the core claim.
+Treat transformed structure, emphasis, examples, wording, visuals, notes, and accessibility choices as researcher-reviewable. This skill may use any researcher-designated stable artifact directly; it does not update the source manuscript, conduct new research, or manage project state.

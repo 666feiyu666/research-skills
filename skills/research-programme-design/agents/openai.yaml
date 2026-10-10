@@ -1,4 +1,0 @@
-interface:
-  display_name: "Research Programme Design"
-  short_description: "Design research programmes and paper portfolios"
-  default_prompt: "Use $research-programme-design to map my research programme into a coherent portfolio of papers and submission paths."

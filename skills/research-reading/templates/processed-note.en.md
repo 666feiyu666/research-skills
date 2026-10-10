@@ -1,5 +1,7 @@
 # Processed Note: {{topic-or-question}}
 
+> Use only when the researcher explicitly requests a standalone thematic or comparative processing document. This is not the default “reading note” after dialogue and does not replace a source record, session, or selected card.
+
 ## Organizing thread
 
 - Type: author question / researcher question / concept / debate / method / chronology / other

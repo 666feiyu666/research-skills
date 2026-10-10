@@ -1,4 +1,4 @@
 interface:
-  display_name: "Research Writing"
-  short_description: "独立完成论文结构、起草、修改与论证或引文审阅"
-  default_prompt: "使用 $research-writing 根据我提供的材料直接创建或修改论文；仅在结构确有必要时引入 architecture 或 paragraph plan。"
+  display_name: "Research Thinking & Writing"
+  short_description: "在写作中发展研究问题、研究设计、论证结构与学术稿件"
+  default_prompt: "使用 $research-writing 从我提供的材料中发展研究问题与论证，并起草或实质性修改相应文本。"
