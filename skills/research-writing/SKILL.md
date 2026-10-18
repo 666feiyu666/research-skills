@@ -38,7 +38,7 @@ A change in wording is not automatically a conceptual solution, and a readable d
 - `compression`: shorten while preserving indispensable reasoning and evidence;
 - `latex-output`: convert stable content using verified citation keys.
 
-Use `research-language-editing` when the requested change is language-only. Use `research-review` when the requested outcome is an evaluation rather than a revised artifact.
+Use `research-language-editing` for English or `research-language-editing-zh` for Chinese when the requested change is language-only. Use `research-review` when the requested outcome is an evaluation rather than a revised artifact.
 
 ## Thinking Through Writing
 

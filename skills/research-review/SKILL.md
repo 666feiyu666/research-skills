@@ -55,7 +55,7 @@ Use calibrated conclusions such as `ready for this purpose`, `ready with minor r
 
 ## Boundary with Revision
 
-Review is read-only by default. Do not rewrite passages or modify files unless the same request explicitly authorizes revision. When review and revision are both requested, keep the diagnosis visible, apply `research-writing` to substantive changes or `research-language-editing` to language-only changes, and report what was changed rather than treating review as implicit permission.
+Review is read-only by default. Do not rewrite passages or modify files unless the same request explicitly authorizes revision. When review and revision are both requested, keep the diagnosis visible, apply `research-writing` to substantive changes, `research-language-editing` to English language-only changes, or `research-language-editing-zh` to Chinese language-only changes, and report what was changed rather than treating review as implicit permission.
 
 Treat the reconstructed paper, review outcome, priorities, and venue comparison as researcher-reviewable. Never invent sources, reviewer consensus, venue rules, evidence, or acceptance likelihood.
 
