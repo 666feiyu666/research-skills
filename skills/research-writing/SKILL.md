@@ -1,84 +1,52 @@
 ---
 name: research-writing
-description: "Think through and write a specific research project or paper: develop questions, concepts, possible answers, designs, methods, contributions, argument architecture, outlines, drafts, and substantive revisions from researcher-supplied or designated material. Use when inquiry develops through writing or when intellectual and textual work must stay connected. Do not discover new scholarship, newly analyze raw research objects, provide review-only evaluation, manage project progress, or perform language-only polishing."
+description: "Develop a specific study or paper through a compact argument line or argument map from researcher-supplied or designated material. Use to clarify questions, concepts, possible answers, designs, and contributions, or to structure and substantively revise an argument. Expand into outlines or prose when requested. Do not discover scholarship, newly analyze raw materials, manage project progress, provide review-only evaluation, or perform language-only polishing."
 ---
 
 # Research Thinking and Writing
 
-Use writing as a way to expose, test, and develop thought without allowing fluent prose to settle an unchosen intellectual position.
+Make the reasoning visible. The default writing product is a compact **argument line or argument map** that the researcher can inspect and revise. It is a complete deliverable in its own right; developing it does not imply continuing into prose.
 
-## Starting Point and Authority
+## Core Writing Chain
 
-Begin from the researcher's current concern, fragment, puzzle, notes, designated literature artifacts, analysis results, outline, or draft. A mature question is not required. Do not infer authority from recency, filenames, or file existence.
+Begin from the researcher's concern, fragments, notes, designated reading or analysis artifacts, outline, or draft. A settled research question is not required.
 
-Distinguish:
+1. **Find the governing problem or intended claim.** Preserve the researcher's direction, corrections, and degree of certainty; leave unresolved positions open.
+2. **Identify the distinctions and premises that do the work.** Separate concepts, analytical levels, evidence, and scope only where the reasoning depends on them.
+3. **Build the minimum argument line or map.** Show what each move establishes and how the next follows. Use a map when branches, dependencies, or feedback matter.
+4. **Expose consequential gaps and limits.** Keep necessary qualifications, missing premises, and evidence needs visible; distinguish supplied reasoning from substantive model proposals.
+5. **Return the compact argument for researcher review.** End with the requested argument product unless an outline, draft, or substantive revision is also requested.
 
-- research problem;
-- research question;
-- possible answer;
-- concepts and theoretical commitments;
-- materials, method, and permitted inference;
-- contribution;
-- line of argument;
-- manuscript architecture and prose.
+These steps guide the work; they are not a mandatory five-part structure for the argument itself.
 
-A change in wording is not automatically a conceptual solution, and a readable draft is not evidence that its claims are supported.
+## Default Product and Length
 
-## Modes
+- Aim for **about five argumentative moves; never exceed seven** in one argument line or map. Use fewer when sufficient. Count substantive moves across branches and nested lists; do not hide additional reasoning in subpoints.
+- Use short propositions that state what must be established and the relation that carries the argument forward. Prefer a numbered chain; add a compact arrow line only when useful. A map may show branching or feedback without forcing a linear sequence.
+- Make the logical connection explicit where needed: distinction, support, explanation, qualification, consequence, or feedback. Adjacency and arrows cannot supply a missing premise.
+- Preserve indispensable reasoning and claim strength when compressing. If the scope cannot fit within seven moves, flag the scope problem and offer a narrower argument rather than silently dropping a necessary step.
+- Keep substantive model additions and unresolved checks brief and separate. Do not append an extended commentary, paragraph plan, or prose draft by default.
 
-- `explore`: develop distinctions, connections, tensions, or candidate questions from incomplete material;
-- `design`: test the fit among question, concepts, cases, materials, method, evidence, and inference;
-- `diagnose`: locate scope conflicts, unstable concepts, unsupported claims, or tensions revealed by reading, analysis, or drafting;
-- `argument-architecture`: organize a possible answer into claims, reasons, evidence needs, counterarguments, and limits;
-- `outline`: assign clear responsibilities and dependencies to sections;
-- `draft`: produce a section or complete readable manuscript from an authorized path;
-- `substantive-revision`: change claims, structure, evidence use, or explanatory development in a designated draft;
-- `argument-audit`: inspect the realized claim sequence, evidence, inference, and paragraph functions;
-- `citation-audit`: check identity and internal correspondence without inventing support;
-- `compression`: shorten while preserving indispensable reasoning and evidence;
-- `latex-output`: convert stable content using verified citation keys.
+For difficult reconstruction or a consequential argumentative gap, consult [references/line-of-argument.md](references/line-of-argument.md). Do not load supporting resources routinely.
 
-Use `research-language-editing` for English or `research-language-editing-zh` for Chinese when the requested change is language-only. Use `research-review` when the requested outcome is an evaluation rather than a revised artifact.
+## Further Writing When Requested
 
-## Thinking Through Writing
+Questions, designs, outlines, drafts, and substantive revisions remain available. Use the argument to clarify the requested object without requiring a separate artifact or approval round when the researcher has confirmed the path, explicitly asks for immediate drafting or for argument and prose together, or requests a local revision whose function is clear. Confirmation of an argument alone does not request prose.
 
-Preserve the researcher's own puzzle, provisional language, and later corrections. When a concept or paired term carries important reasoning, examine its referent, analytical level, relation to neighboring concepts, scope, counterexamples, and support. Offer a small number of genuinely different options only when they clarify a consequential choice.
+Expand only as far as the task requires. An outline assigns argumentative responsibilities; prose develops the requested reasoning for its reader and stage. Do not mechanically turn each move into a paragraph. If drafting reveals a consequential new claim or relation, make it visible for review.
 
-Treat model-developed questions, answers, methods, contributions, or argumentative bridges as candidates. Do not silently promote them into the researcher's position.
+Revise the designated artifact in place. Keep a short argument in chat; for persistent work, use the existing canonical argument or outline rather than creating a parallel tracker or draft.
 
-## Line-of-Argument Gate
+## Evidence, Boundaries, and Researcher Authority
 
-For a substantial new article, section, or argumentative passage whose path has not been confirmed, read [references/line-of-argument.md](references/line-of-argument.md). Reconstruct the minimum claim path from the researcher's material and return it for review before continuous prose.
+Use only supplied or designated evidence. Preserve citations, quotations, deliberate terminology, uncertainty, and necessary limits. Mark actual gaps precisely, such as `[evidence needed]`, `[citation needed]`, or `[researcher confirmation needed]`; do not invent support or hide a gap through fluent language.
 
-The gate does not apply when the researcher has already confirmed an equivalent structure, explicitly requests immediate drafting, asks for the line and prose together, or requests a local revision whose argumentative function is clear. Keep a short line in chat; update an existing canonical outline for persistent work rather than creating a duplicate artifact.
+The researcher owns substantive questions, possible answers, concepts, methods, contributions, and interpretations. Treat model-developed claims and bridges as proposals. Every materially created or revised argument or text remains researcher-reviewable until explicitly accepted; clarity, verification, file creation, or later reuse does not establish acceptance.
 
-## Literature-Review Boundary
+For literature-review work, read [references/literature-review.md](references/literature-review.md). Unless the researcher explicitly changes that boundary, assistance is bibliographic and citation-marker checking, plus requested verbatim transcription or formatting. The researcher supplies interpretation, synthesis, and scholarly use; general argument-building or drafting permissions do not override this boundary.
 
-For a task whose function is literature review, read [references/literature-review.md](references/literature-review.md). Unless the researcher explicitly changes this responsibility boundary, limit assistance to bibliographic identity, edition information, citation markers or keys, reference correspondence, and verbatim transcription or formatting of researcher-supplied substantive content.
+Source discovery and independent reading belong to `research-reading`; new analysis of primary materials belongs to `research-analysis`. Use `research-review` for evaluation alone and the appropriate language-editing skill for language-only changes. Do not automatically invoke another capability, update upstream artifacts, or change project status.
 
-The researcher supplies source summaries, interpretations, comparisons, inclusion decisions, gap claims, and each source's role. Do not use general drafting permissions to generate those contents or turn a literature-review table into prose. Independent source reading and synthesis belong to `research-reading`.
+## Optional Resources
 
-## Workflow
-
-1. Identify the current intellectual object, requested mode, audience, length, format, destination, and authoritative inputs.
-2. Extract the researcher's questions, claims, reasons, examples, evidence, terms, constraints, corrections, and genuine gaps.
-3. Work at the level the request requires:
-   - in exploration or design, make the intellectual choices visible without forcing closure;
-   - in collaborative drafting, expose an unsettled line of argument before prose;
-   - in direct drafting, follow the confirmed or explicitly authorized path;
-   - in revision, reconstruct the draft's actual claim sequence before changing it when that sequence is unclear.
-4. Keep architecture compressed: state what each unit establishes, its relation to adjacent units, the material assigned to it, and any unsupported bridge.
-5. Draft for argumentative movement rather than mechanically filling a plan. Merge, split, add, remove, or reorder paragraphs when the authorized structure requires it.
-6. Mark real gaps precisely, such as `[evidence needed]`, `[citation needed]`, `[page to verify]`, or `[researcher confirmation needed]`; never fill them by invention.
-7. Revise the active artifact in place by default. Preserve separate versions only when requested or when genuinely distinct deliverables must coexist.
-8. Return the requested artifact first, then report consequential model additions, unresolved gaps, and decisions requiring researcher review.
-
-## Manuscript Stages
-
-A supervisor or collaborator draft should be readable, substantially complete, and discussable while keeping provisional claims visible. A submission candidate needs a coherent argument, stable concepts, supported claims, reliable citations, mature prose, and compliance with the target venue. Draft to the requested stage; do not make every early version imitate a final submission.
-
-## Evidence and Authorship
-
-Use only supplied or designated evidence. Preserve citations, quotations, uncertainty, deliberate terminology, and degree of claim strength. Do not newly interpret unread scholarship, invent findings, choose the researcher's commitments, or hide a conceptual gap through rhetoric.
-
-Treat every model-created or materially expanded question, design, argument, outline, section, or manuscript as researcher-reviewable. This skill may use designated plans, reading artifacts, analyses, reviews, or feedback as inputs, but it does not update those upstream artifacts or project status unless the researcher explicitly requests connected work.
+Load only for a requested need: [English collaboration](references/workflow.en.md) or [Chinese collaboration](references/workflow.zh-CN.md) for language-specific guidance; `templates/section-plan.*.md`, `templates/paragraph-plan.*.md`, or `templates/audit.*.md` for an explicitly requested detailed plan or audit. These are optional aids, not default deliverables. For an explicitly requested external model call, read [references/providers.md](references/providers.md) before using the existing helper scripts.

@@ -1,74 +1,44 @@
-# Reviewable Line of Argument
+# Compact Argument Line or Map
 
-Use this reference for collaborative drafting when the researcher has supplied a direction, fragments, examples, partial judgments, or corrections but has not yet confirmed how they should form a substantial passage.
+Use when reconstructing an argument from fragments, corrections, or a draft requires closer attention to logical relations. The output is a complete writing product, not merely a gate before prose. Apply the length and authority rules in `../SKILL.md`.
 
-For literature-review work, use [literature-review.md](literature-review.md) instead of reconstructing a line of argument. Assistance is limited to bibliographic and citation-marker checks, plus explicitly requested verbatim transcription or formatting. The researcher alone supplies interpretation, synthesis, and scholarly use; the drafting permissions in this reference do not override that boundary.
+For literature-review work, apply [literature-review.md](literature-review.md) instead; argument-building permissions do not override its bibliographic-only boundary.
 
-## Purpose
+## Reconstruct the Reasoning
 
-Make the argument visible before prose makes it appear settled. The line of argument records the researcher's current direction, the relation between successive movements, and the few decisions that still require review. It is not a topic list, prose synopsis, sentence plan, or invitation for the model to complete the researcher's position.
+Preserve the researcher's governing problem, central judgment, distinctive reasons, consequential terminology, later corrections, and necessary qualifications. Do not replace a specific reason with a familiar generic rationale or strengthen a relative claim into an absolute one.
 
-## Reconstruct from supplied material
+Find the minimum moves needed to establish the intended claim. Each move should state a proposition and, where needed, why it follows or what it enables. A sequence of topics, section headings, or source summaries is not an argument line.
 
-Preserve the researcher's:
+Check analytical levels when the reasoning moves between them: a property at one level does not automatically explain an outcome at another. State the connecting premise. Preserve branches and feedback where they carry the explanation; an argument map need not be linear. These are reasoning checks, not required components of every argument.
 
-- governing question or intended rhetorical action;
-- central judgment and its degree of certainty;
-- sequence of questions, reasons, examples, qualifications, and exclusions;
-- wording that carries the intended emphasis;
-- later corrections, including which earlier model assumption they reject.
+Aim for about five moves, with a maximum of seven across the whole line or map, including substantive subpoints. Compress repetition and incidental elaboration; retain necessary premises, limits, and relations. If the argument needs more, expose the scope problem and propose a narrower unit rather than hiding extra steps in nested lists or commentary.
 
-Do not replace a specific researcher reason with a familiar generic rationale. Do not turn two adjacent topics into a causal or inferential relation merely to improve flow.
+## Handle Gaps Without Taking Over
 
-## State the minimum claim path
+Arrange, merge, or shorten researcher-supplied reasoning directly when its relation is clear. Identify consequential model-proposed bridges, interpretations, or choices separately. Do not invent motives, evidence, commitments, or conclusions to make a chain appear complete. Where a bridge remains unsupported, show the gap rather than drawing an unqualified arrow.
 
-For each movement, state:
+Surface only decisions that materially change the argument. Offer one or two alternatives only when they clarify a real choice; do not turn the reconstruction into a questionnaire.
 
-1. what it should establish for the reader;
-2. which researcher-supplied material belongs there;
-3. how it relates to the preceding and following movements;
-4. whether the bridge is supplied, a low-risk unpacking, or a consequential model proposal;
-5. any source check or researcher decision still required.
+## Compact Form
 
-Name real relations when useful: `defines`, `explains`, `supports`, `qualifies`, `contrasts with`, `raises the question`, `extends`, or `therefore`. An arrow or transition word does not supply a missing premise.
+Use short numbered propositions or a map with brief relation labels. Usually about five moves are enough; the form does not require a fixed number or a standard sequence of functions.
 
-## Decide, propose, or stop
+```text
+[Governing problem, only if it is not already clear]
 
-Decide directly when the choice concerns sentence order, paragraph boundaries, removal of repetition, explanatory depth, or a transition already entailed by confirmed material.
+1. [Proposition and its argumentative role]
+2. [Next proposition, with the connection made explicit]
+… [Continue only as needed; no more than seven moves in total]
 
-Propose one or two options, or ask one focused question, when different local relations would produce materially different passages.
-
-Stop for researcher review when progress would require selecting a governing claim, inventing a motive or reason, adding a philosophical or evaluative commitment, choosing among incompatible paths, or turning an open question into a conclusion.
-
-## Review stage
-
-Return the compact line of argument as the deliverable for this stage and stop before continuous prose. Draft only after the researcher confirms or corrects it, unless the researcher explicitly requests immediate drafting or asks for the line and prose together.
-
-For a short passage, present the line in chat. For a persistent multi-round project, update the existing canonical outline or argument artifact. Create a separate file only when the researcher requests it or when no canonical artifact can represent the line without duplication.
-
-## Compact form
-
-Adapt this structure rather than filling it mechanically:
-
-```markdown
-Governing task: ...
-
-Line of argument:
-
-1. Movement: ...
-   - Establishes: ...
-   - Uses: ...
-   - Relation to next movement: ...
-
-Needs researcher review:
-
-- Consequential bridge, interpretation, selection, or open decision only.
-
-Boundaries:
-
-- Claim not to make, excluded scope, or evidence limit.
+[Optional: one compact arrow line, including a branch or feedback relation]
+[Only consequential model proposals, unresolved checks, or scope limits]
 ```
 
-## After confirmation
+Do not require a separate evidence field, paragraph assignment, or multi-level specification for every move. Add a brief material or evidence note only where it changes how a claim can be assessed.
 
-Treat the accepted line and the researcher's corrections as drafting authority. Compose for a reader rather than transcribing bullets into sentences. After drafting, reconstruct the realized claim path from the prose and repair accidental additions, omissions, false relations, repeated movements, or displaced emphasis. If the prose reveals a productive but substantive new path, return it as a proposal instead of silently treating it as confirmed.
+## Researcher Review and Further Writing
+
+Return the argument for inspection and finish this stage. Explicit acceptance confirms the argument for later intellectual work; it does not by itself request expansion. Follow corrections in the same canonical artifact rather than preserving competing versions by default.
+
+When prose is requested, use the confirmed or explicitly authorized direction. Do not impose another review round for an already clear local revision or a request for immediate drafting or argument and prose together. After writing, check that the text preserves the intended reasoning and limits; return any consequential new path as a proposal.

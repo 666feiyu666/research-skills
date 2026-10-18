@@ -1,4 +1,4 @@
 interface:
   display_name: "Research Thinking & Writing"
-  short_description: "在写作中发展研究问题、研究设计、论证结构与学术稿件"
-  default_prompt: "使用 $research-writing 从我提供的材料中发展研究问题与论证，并起草或实质性修改相应文本。"
+  short_description: "从研究材料形成约五步、最多七步的简洁论证链或论证图，按需展开写作"
+  default_prompt: "使用 $research-writing 从我提供的材料中形成简洁的 argument line 或 argument map，以约五步为宜、最多七步，保留关键推导和限定，供我审阅。"
