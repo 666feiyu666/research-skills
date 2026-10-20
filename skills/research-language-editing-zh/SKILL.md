@@ -41,9 +41,8 @@ Remove empty scene-setting, repeated conclusions, mechanical signposting, stock 
 - Clarify missing subjects or stacked “被” clauses only when agency is supplied. Never infer an actor or turn an attributed association into causation.
 - Keep functional transitions, real contrasts, four-character expressions, parallel lists, and passive clauses. Change them only for a specific contextual problem.
 - Preserve academic register and necessary terminology; natural Chinese need not be conversational. Do not force sentence-length variation.
+- Use colons sparingly in Chinese prose. Prefer integrated clauses and natural sentence transitions when introducing an explanation, question, or conclusion; do not routinely add a colon after phrases such as “问题在于” or “由此可见”. Retain colons when they clearly serve a quotation, enumeration, or necessary elaboration. Reduce overuse by revising the syntax rather than mechanically substituting other punctuation, and preserve logical relations and emphasis.
 - Follow the target Chinese punctuation conventions without altering quotations or structured content. Preserve headings, anchors, links, code, and data unless their editing is requested.
-
-Adapted from [Humanizer-zh](https://github.com/op7418/Humanizer-zh/blob/main/SKILL.md). Its patterns are contextual editing cues, not evidence of authorship or a word blacklist. Leave sound prose unchanged.
 
 Read [Chinese editing examples](references/editing-examples.md) when a concrete comparison would help with padded verbs, qualifications, attribution, or expressions that should remain unchanged. They are illustrations, not a required output format.
 

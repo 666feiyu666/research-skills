@@ -43,8 +43,6 @@ Remove empty scene-setting, repeated conclusions, mechanical signposting, stock 
 - Keep paragraphs focused and sentences connected. Adjust emphasis and tense for the passage's function without imposing identical paragraph openings or flattening chronology.
 - Replace inflated praise, empty participial tails, and decorative formatting only when they obscure or repeat meaning; technical vocabulary is not a blacklist.
 
-Adapted from [Writing Clearly and Concisely](https://github.com/richyuh/claude-skills/blob/main/writing-clearly-and-concisely/SKILL.md). Apply these preferences within the research boundaries below.
-
 Read [editing examples](references/editing-examples.md) when a concrete comparison would help with concision, agency, parallelism, or the limits of rephrasing. They are illustrations, not a required output format.
 
 ## Substantive Boundary
