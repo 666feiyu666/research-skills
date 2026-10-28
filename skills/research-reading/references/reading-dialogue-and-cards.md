@@ -26,7 +26,20 @@ When “reading note” is ambiguous, route by context: after a substantive dial
 
 Treat the source record as a work-level hub, not as a surrogate for the work. Preserve only metadata needed to identify and recover the source, the evidence state and portions actually engaged, and a linked register of the reading sessions and researcher-selected cards that arose from it. Give each link only enough description to support later retrieval.
 
-Do not fill untouched chapters or arguments, and do not copy detailed claims, quotations, dialogue, or card prose into the source record. Update its register only when source-index maintenance is part of the request. When the researcher connects the source to a project or proposes an extension, preserve that turn in the live dialogue or a requested durable artifact. Create a standalone processed note only when the researcher explicitly asks for that distinct thematic output.
+Do not fill untouched chapters or arguments, and do not copy detailed claims, quotations, dialogue, or card prose into the source record. When the researcher connects the source to a project or proposes an extension, preserve that turn in the live dialogue or a requested durable artifact. Create a standalone processed note only when the researcher explicitly asks for that distinct thematic output.
+
+## Storage namespaces and navigation maintenance
+
+Follow the current project's declared storage convention. A folder is a retrieval namespace, not a new artifact role. One-off artifacts may remain flat; sustained reading may use author and work subfolders. Keep cross-source cards outside a single-work namespace unless the project declares another canonical home.
+
+Creating, moving, or renaming an authorized durable reading artifact includes the following same-source maintenance:
+
+1. ensure that the work-level source record exists when the project requires one;
+2. update only verified identity, actual coverage, the artifact register, review state, and maintenance date;
+3. keep direct links between the source record and the session or card valid in both directions;
+4. repair links among moved artifacts and check that all affected relative paths resolve.
+
+This maintenance does not authorize another session, card, processed note, synthesis, project application, interpretation, or downstream update. For a multi-source artifact, register it only in the source records for works actually used and preserve each work's evidence state. Do not wait for a book or paper to be declared complete: synchronize navigation whenever a durable artifact is written or relocated, then update final coverage only if the researcher later declares the reading complete.
 
 ## Dialogue before artifact
 

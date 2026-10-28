@@ -56,7 +56,11 @@ Preserve the researcher's puzzle in their own terms. Test a proposed resolution 
 
 Source records, sessions, cards, processed notes, and syntheses are available artifact roles, not a mandatory chain.
 
-Create only the artifact the researcher requests or clearly authorizes. A card does not require creating a session first; a session does not require a source record; creating one artifact does not authorize updating another. Link to related artifacts that already exist when useful, and update a source index only when that maintenance is part of the request.
+Create only the substantive artifact the researcher requests or clearly authorizes. A card does not require creating a session first, and saving a session does not authorize creating a card or synthesis.
+
+When an authorized write creates, moves, or renames a durable reading artifact, keep the same work's canonical source record and direct backlinks synchronized as mechanical navigation maintenance. If the project requires a work-level source record and none exists, create the minimal record from verified source identity, actual coverage, artifact links, review state, and dates. This maintenance is part of the authorized write; it does not authorize a new interpretation, card, session, synthesis, project application, research-position change, draft revision, or project-status update.
+
+Before creating, revising, relocating, or indexing a source record, reading session, knowledge card, or question card, read [Source Records, Reading Sessions, and Semantic Cards](references/reading-dialogue-and-cards.md). Use its storage, backlink, and maintenance rules together with the current project's canonical artifact policy.
 
 Keep the roles distinct:
 
@@ -79,7 +83,7 @@ Templates in `templates/` and format references are optional. Select a locale va
 4. Read only what the question and requested coverage require.
 5. Reconstruct relevant content with locators and distinguish evidence from interpretation.
 6. In cross-source work, state the comparison line and preserve disagreements, edition differences, and unresolved conflicts.
-7. Return or save only the requested artifact. Do not silently revise research questions, project positions, outlines, drafts, or project status.
+7. Return or save only the requested substantive artifact, together with the minimal same-source navigation maintenance described above. Do not silently revise research questions, project positions, outlines, drafts, or project status.
 
 ## Researcher Authority
 
