@@ -13,7 +13,15 @@ Begin with the researcher's request and the latest designated brief, rubric, tem
 
 Treat newer instructions as controlling only when the researcher or an authoritative source identifies them as newer. Flag conflicts rather than silently reconciling them. If a needed detail is unresolved, use a precise marker or return it as a researcher decision; do not fill it with a plausible invention.
 
-Use existing canonical artifacts. Do not create a second outline, proposal draft, decision log, reference list, or progress tracker merely because proposal work occurred. A file supplied for context is not automatically authorized for editing. When the researcher asks to discuss a section in chat before changing it, keep the proposed text in chat until they authorize the write.
+Use existing canonical artifacts. Do not create a second outline, proposal draft, decision log, reference list, or progress tracker merely because proposal work occurred. A file supplied for context is not automatically authorized for editing.
+
+## Discussion-First Revision Protocol
+
+For proposal development and revision, default to discussion in chat. Requests to continue, polish, improve, develop, review, or draft a section authorize analysis, recommendations, and proposed wording, but do not authorize file changes. Inspect the relevant canonical artifacts, then present the diagnosis, options, trade-offs, and suggested revisions in the conversation.
+
+The researcher normally makes the file edits. Modify a proposal artifact only when the researcher explicitly instructs Codex to apply a named or previously discussed option, plan, or set of revisions to an identified file. General requests to continue working, approval of an idea, or responses such as “looks good” do not constitute authorization to edit.
+
+When explicit authorization is given, edit only the identified files and implement only the authorized revision. If the intended option or target file is unclear, remain in discussion mode and ask for clarification rather than writing to the workspace.
 
 ## Defensible Design
 
@@ -62,7 +70,7 @@ Use only the mode or connected modes requested:
 - `framing`: develop the research problem, question, rationale, significance, or contribution;
 - `design`: develop scope, materials or data, methods, evidence trail, validation, limitations, ethics, feasibility, or AI disclosure;
 - `architecture`: create or revise the proposal's argument line, outline, section responsibilities, and word allocation;
-- `section`: discuss, draft, or substantively revise one designated section while preserving its role in the whole proposal;
+- `section`: inspect and discuss one designated section in relation to the whole proposal; provide diagnosis, options, and proposed wording in chat by default. Write changes to the section file only after the researcher explicitly instructs Codex to apply an identified revision;
 - `assembly`: integrate designated section drafts into one proposal and resolve cross-section inconsistencies;
 - `revision`: respond to designated feedback or requirements and prepare the proposal for its intended submission stage.
 
