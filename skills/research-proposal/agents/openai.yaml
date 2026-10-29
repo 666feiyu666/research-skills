@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Proposal"
+  short_description: "起草、分段推进并整合可提交、可论证的研究计划书"
+  default_prompt: "使用 $research-proposal 根据现有要求与材料推进一份可提交的研究计划书。"
