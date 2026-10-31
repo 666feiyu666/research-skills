@@ -1,0 +1,34 @@
+---
+name: research-diagram
+description: Create or revise editable diagrams of conceptual relations, arguments, and research designs for theory-led humanities and social-science work. Use for research frameworks, proposal diagrams, and faithful redraws; do not treat a diagram as approval of a research position.
+---
+
+# Research Diagram
+
+Make a diagram that lets a reader see what the research asks, how its parts relate, and which claims remain open. The diagram is a visual expression of the researcher's material, not a new authority for research questions, methods, or conclusions.
+
+## Choose the task
+
+- **Conceptual or argument map:** show distinctions, tensions, candidate inferences, objections, and revisions.
+- **Research design:** show the question, theoretical resources, materials, analytical operations, and intended argument. Show iteration when concepts and cases inform one another.
+- **Faithful redraw:** preserve the supplied diagram's content, topology, and visual hierarchy unless the user asks for redesign. Report any illegible or ambiguous part rather than guessing.
+
+Use the [diagram model and layouts](references/diagram-design.md) when choosing relationships or a layout. These are options, not required stages or a universal research method.
+
+## Work from the selected sources
+
+Read only the material relevant to the requested diagram. Identify the source of each substantive node and connection. Preserve the difference between researcher wording, verified source claims, agent interpretation, and an open question. Follow the applicable Research and project `AGENTS.md` files for intellectual authority and review states. Do not promote a tentative question, case choice, method, interpretation, or expected contribution into an established result. Do not invent a literature gap or case finding.
+
+Before drawing, make a compact working model of zones, nodes, and labelled relationships. Keep it format independent so the same intellectual structure can be rendered in SVG, PPTX, draw.io, or another suitable format. The working model is a production aid; the cited research files remain canonical. Do not create a new research tracker or update proposal prose as a side effect.
+
+If a crucial relationship is absent or materially ambiguous, present a small number of diagram choices and their consequences. A draft can still mark an unresolved relation as `agent-proposed`; file creation or polished layout never changes its review state.
+
+## Render and deliver
+
+The requested output format takes priority. If none is specified, deliver an editable SVG as the main file. Use a low-detail SVG draft when a structural preview is useful, then produce a final SVG with live text, separate vector shapes and connectors, and meaningful groups or IDs. Do not flatten the diagram into a bitmap, convert ordinary labels to outlines, or embed the whole figure as one image. Use widely available fonts with fallbacks and verify the rendered result at the intended viewing size.
+
+If the user wants to edit the figure as slide objects in macOS WPS Office, produce an optional PPTX with independent native text, shapes, connectors, and arrows. Use the available presentation authoring runtime for PPTX, resolving its workspace dependencies first; inspect the saved file in WPS Office when available and state if compatibility was not checked. For draw.io, use editable nodes and edges in a `.drawio` file. PNG and PDF are optional viewing or insertion copies; neither replaces the SVG source by default. Keep rendering choices separate from the working model so a later renderer can use the same content without changing its meaning.
+
+Use a low-detail preview to check the intellectual structure and reading order before polishing a diagram from prose. Do not make a routine approval gate for cosmetic choices. Ask the researcher to decide only when a proposed question, conceptual relation, case role, method, or contribution would otherwise be silently selected on their behalf.
+
+Inspect the final SVG itself at its intended viewing size, and inspect any additional exported format separately. Check text clipping, readable type, contrast, section hierarchy, connector endpoints, arrow direction, and whether line style or colour makes uncertain relations appear settled. When an output format cannot preserve a feature, describe the difference. Deliver the editable SVG and any requested companion files, with a short note on the source material, any `agent-proposed` content, and remaining researcher decisions.
