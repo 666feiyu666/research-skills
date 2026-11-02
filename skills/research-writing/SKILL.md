@@ -1,41 +1,50 @@
 ---
 name: research-writing
-description: "Develop a specific study or paper through a compact argument line or argument map from researcher-supplied or designated material. Use to clarify questions, concepts, possible answers, designs, and contributions, or to structure and substantively revise an argument. Expand into outlines or prose when requested. Do not discover scholarship, newly analyze raw materials, manage project progress, provide review-only evaluation, or perform language-only polishing."
+description: "Develop a specific study or paper from researcher-supplied or designated material by making its reasoning visible and, when prose exists or is requested, iterating between a compact argument model and the draft. Use to clarify questions, concepts, possible answers, designs, and contributions, or to build and substantively revise arguments, outlines, and prose. Do not discover scholarship, newly analyze raw materials, manage project progress, provide review-only evaluation, or perform language-only polishing."
 ---
 
 # Research Thinking and Writing
 
-Make the reasoning visible. The default writing product is a compact **argument line or argument map** that the researcher can inspect and revise. It is a complete deliverable in its own right; developing it does not imply continuing into prose.
+Make the reasoning visible. The default reasoning representation is a compact **working argument line or argument map** that the researcher can inspect and revise. It can be a complete deliverable in its own right, and producing it does not imply permission to continue into prose.
 
-## Core Writing Chain
+When prose exists or is requested, treat argument and prose as reciprocal but distinct. The argument guides drafting; prose tests the argument by exposing missing premises, evidential limits, conceptual instability, scope changes, and new relations. Neither artifact overrides the researcher's decisions.
+
+## Working Modes
+
+- **Argument only:** Return the compact argument requested. Do not create or expand prose automatically.
+- **Local prose work:** Revise the designated passage directly. Update or report the argument only when the prose reveals a consequential change.
+- **Coupled development:** When argument and prose are both in scope, keep the current argument model and draft synchronized without requiring a review round after every local edit.
+
+## Core Writing Cycle
 
 Begin from the researcher's concern, fragments, notes, designated reading or analysis artifacts, outline, or draft. A settled research question is not required.
 
-1. **Find the governing problem or intended claim.** Preserve the researcher's direction, corrections, and degree of certainty; leave unresolved positions open.
-2. **Identify the distinctions and premises that do the work.** Separate concepts, analytical levels, evidence, and scope only where the reasoning depends on them.
-3. **Build the minimum argument line or map.** Show what each move establishes and how the next follows. Use a map when branches, dependencies, or feedback matter.
-4. **Expose consequential gaps and limits.** Keep necessary qualifications, missing premises, and evidence needs visible; distinguish supplied reasoning from substantive model proposals.
-5. **Return the compact argument for researcher review.** End with the requested argument product unless an outline, draft, or substantive revision is also requested.
+1. **Recover the current problem and argument state.** Preserve the researcher's direction, corrections, accepted decisions, and degree of certainty; leave unresolved positions open.
+2. **Build or refresh the minimum argument model.** Identify the distinctions, premises, evidence, scope, and relations that do the work. Use a map when branches, dependencies, or feedback matter.
+3. **Draft or revise only the authorized writing object.** Let the argument guide the prose without mechanically turning each move into a paragraph.
+4. **Read the prose diagnostically.** Notice when concrete writing reveals a missing bridge, weaker support, conceptual shift, scope change, contradiction, or new relation.
+5. **Reconcile consequential discoveries.** Update the prose and current argument model where warranted; keep substantive model proposals, researcher decisions, and evidence gaps distinguishable.
+6. **Return the requested product and its state.** Briefly report any argument changes propagated from prose, unresolved proposals, or material gaps. Stop when the requested unit is complete and the in-scope artifacts have no consequential divergence.
 
-These steps guide the work; they are not a mandatory five-part structure for the argument itself.
+These steps guide coupled work; they are not a mandatory structure for the argument or prose, and argument-only or local prose tasks do not need to perform the whole cycle.
 
 ## Default Product and Length
 
-- Aim for **about five argumentative moves; never exceed seven** in one argument line or map. Use fewer when sufficient. Count substantive moves across branches and nested lists; do not hide additional reasoning in subpoints.
+- For one local argumentative unit, aim for **about five moves and normally no more than seven**. Use fewer when sufficient. A whole paper may require linked local modules rather than one compressed chain.
 - Use short propositions that state what must be established and the relation that carries the argument forward. Prefer a numbered chain; add a compact arrow line only when useful. A map may show branching or feedback without forcing a linear sequence.
 - Make the logical connection explicit where needed: distinction, support, explanation, qualification, consequence, or feedback. Adjacency and arrows cannot supply a missing premise.
-- Preserve indispensable reasoning and claim strength when compressing. If the scope cannot fit within seven moves, flag the scope problem and offer a narrower argument rather than silently dropping a necessary step.
+- Preserve indispensable reasoning and claim strength when compressing. If one unit cannot remain compact, narrow it or divide the paper into linked argument modules rather than silently dropping a necessary step.
 - Keep substantive model additions and unresolved checks brief and separate. Do not append an extended commentary, paragraph plan, or prose draft by default.
 
 For difficult reconstruction or a consequential argumentative gap, consult [references/line-of-argument.md](references/line-of-argument.md). Do not load supporting resources routinely.
 
-## Further Writing When Requested
+## Prose and Synchronization When Requested
 
-Questions, designs, outlines, drafts, and substantive revisions remain available. Use the argument to clarify the requested object without requiring a separate artifact or approval round when the researcher has confirmed the path, explicitly asks for immediate drafting or for argument and prose together, or requests a local revision whose function is clear. Confirmation of an argument alone does not request prose.
+Questions, designs, outlines, drafts, and substantive revisions remain available. Confirmation of an argument alone does not request prose. Once prose is authorized, however, do not freeze the argument as an upstream contract: use the draft to test and, where justified, revise the current argument model.
 
-Expand only as far as the task requires. An outline assigns argumentative responsibilities; prose develops the requested reasoning for its reader and stage. Do not mechanically turn each move into a paragraph. If drafting reveals a consequential new claim or relation, make it visible for review.
+Synchronize only consequential changes. Ordinary sentence work, paragraph realization, and local reordering can remain in the prose. A supported clarification or qualification may be propagated across in-scope artifacts; a new substantive answer, interpretation, method, scope, or contribution remains a proposal until the researcher accepts it. Preserve contradictions and evidence gaps instead of smoothing them away.
 
-Revise the designated artifact in place. Keep a short argument in chat; for persistent work, use the existing canonical argument or outline rather than creating a parallel tracker or draft.
+Revise designated artifacts in place and do not create parallel trackers or drafts by default. When paired persistent artifacts already exist, treat the argument file as the compact current model and the prose file as its situated realization and test; keep direct, consequential changes aligned in both directions. Read [references/argument-prose-cycle.md](references/argument-prose-cycle.md) when this reconciliation is part of the task.
 
 ## Evidence, Boundaries, and Researcher Authority
 
@@ -49,4 +58,4 @@ Source discovery and independent reading belong to `research-reading`; new analy
 
 ## Optional Resources
 
-Load only for a requested need: [English collaboration](references/workflow.en.md) or [Chinese collaboration](references/workflow.zh-CN.md) for language-specific guidance; `templates/section-plan.*.md`, `templates/paragraph-plan.*.md`, or `templates/audit.*.md` for an explicitly requested detailed plan or audit. These are optional aids, not default deliverables. For an explicitly requested external model call, read [references/providers.md](references/providers.md) before using the existing helper scripts.
+Load only for a requested need: [argument–prose cycle](references/argument-prose-cycle.md) when paired artifacts must be reconciled; [English collaboration](references/workflow.en.md) or [Chinese collaboration](references/workflow.zh-CN.md) for language-specific guidance; `templates/section-plan.*.md`, `templates/paragraph-plan.*.md`, or `templates/audit.*.md` for an explicitly requested detailed plan or audit. These are optional aids, not default deliverables. For an explicitly requested external model call, read [references/providers.md](references/providers.md) before using the existing helper scripts.

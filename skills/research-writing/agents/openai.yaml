@@ -1,4 +1,4 @@
 interface:
   display_name: "Research Thinking & Writing"
-  short_description: "从研究材料形成约五步、最多七步的简洁论证链或论证图，按需展开写作"
-  default_prompt: "使用 $research-writing 从我提供的材料中形成简洁的 argument line 或 argument map，以约五步为宜、最多七步，保留关键推导和限定，供我审阅。"
+  short_description: "从研究材料发展论证，并让论证模型与正文在写作中相互校正"
+  default_prompt: "使用 $research-writing 从我指定的材料发展论证；需要正文时，让简洁的论证模型与正文相互检验并同步修订。"

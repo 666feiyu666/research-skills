@@ -10,8 +10,9 @@
 | Provisional paragraph | Task / claim served | Local function | Key material / evidence | Relation to adjacent moves |
 | --- | --- | --- | --- | --- |
 
-## Adjustments during drafting
+## Draft discoveries and synchronization
 
 - Paragraphs that may be merged, split, added, removed, or reordered directly:
-- Choices that may change established section responsibilities or claims, and their effects; distinguish supported provisional proposals from decisions that block the requested writing. Do not silently replace confirmed decisions:
+- Consequential clarification, qualification, relation, scope, or evidence change revealed by drafting:
+- Treatment: prose only / synchronize the current argument model / return for researcher confirmation. Do not silently replace confirmed decisions:
 - `[evidence needed]` / `[citation needed]` / `[page to verify]` / `[researcher confirmation needed]`:

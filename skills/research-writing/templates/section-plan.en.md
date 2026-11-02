@@ -34,4 +34,4 @@ Use only when overlapping responsibilities, dependencies across sections, or inf
 
 Use specific `[evidence needed]`, `[citation needed]`, `[page to verify]`, or `[researcher confirmation needed]` markers where applicable; do not invent missing support.
 
-New structural proposals remain provisional and are returned for researcher review. Within authorized writing, a supported structure explicitly marked as provisional may be used to continue the work. Obtain the researcher's judgment first only when a consequential choice cannot reasonably remain provisional and blocks the requested result. Do not silently replace confirmed decisions.
+New structural proposals remain provisional and are returned for researcher review. Within authorized writing, a supported structure explicitly marked as provisional may be used to continue the work. When drafting reveals that a provisional section responsibility or relation is unworkable, synchronize the outline and prose; obtain the researcher's judgment first when the change would replace a confirmed decision or cannot reasonably remain provisional. Do not silently replace confirmed decisions.
