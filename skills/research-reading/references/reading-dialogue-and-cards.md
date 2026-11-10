@@ -4,7 +4,7 @@ Use this reference when creating a source record, conducting or preserving a mul
 
 ## Three artifacts, three functions
 
-These artifacts are related roles but do not form a required chain and do not contain one another:
+These artifacts are distinct roles and do not contain one another. After a substantive reading dialogue, they form a linked checkpoint bundle when the researcher requests a semantic card: ensure the source record, preserve the reading session, and create the selected card as separate files in the same pass.
 
 | Artifact | Function | Typical trigger |
 | --- | --- | --- |
@@ -18,7 +18,7 @@ The session owns chronology and provenance. Preserve the researcher's questions 
 
 The card owns selective semantic retrieval. It distils one result or question chosen and shaped by the researcher. It does not preserve the whole conversation and cannot replace the source record or session.
 
-Use separate files. A “researcher processing” section appended to a source record is still a role violation. If the researcher requests two or three functions, create two or three linked artifacts.
+Use separate files. A “researcher processing” section appended to a source record is still a role violation. When a card request follows substantive multi-turn dialogue, treat it as checkpoint authorization for the three linked roles unless the researcher explicitly requests card-only. Before substantive dialogue, a direct card request does not authorize inventing a session.
 
 When “reading note” is ambiguous, route by context: after a substantive dialogue it usually means a reading session; a request to register or create a home page for a paper/book means a source record; a request for the essence or key question means a card. Ask one focused question if the intended role remains unclear. A requested durable author-summary is not automatically a source record; keep it in a requested session or create a distinct processed note when explicitly requested.
 
@@ -59,7 +59,8 @@ Do not turn the dialogue into a quiz, a whole-book lecture, or a routine sequenc
 Treat the live dialogue as transient working state. A multi-turn exchange becomes eligible for preservation but is not saved until the researcher confirms a checkpoint by:
 
 - asking to save, pause, close, synthesize, or change phase;
-- accepting a brief checkpoint proposal.
+- accepting a brief checkpoint proposal;
+- requesting a knowledge or question card after substantive source-grounded dialogue.
 
 Ask once when a coherent line has reached temporary stability, the topic is changing, several reusable units have emerged, or the discussion is becoming difficult to recover. Continue without saving if the researcher declines.
 
@@ -69,7 +70,7 @@ When an earlier answer would mislead later reading, append a concise correction 
 
 ## Card selection
 
-Card creation is optional and happens together with session preservation at the same checkpoint. When the researcher confirms a checkpoint, save the session record and, in the same pass, offer candidates and co-construct any selected cards — do not defer card-making to a later round after the session is saved. Propose candidates only when they would improve later retrieval; create a card directly when the researcher requests one. For each proposed candidate, give:
+Card creation is optional, but when a selected card arises from substantive dialogue it is created together with session preservation and source-record maintenance at the same checkpoint. A direct card request after such dialogue confirms the checkpoint and authorizes this three-artifact bundle unless the researcher says card-only. Save and link the three roles in one pass; do not defer session preservation or card-making to a later round. Propose candidates only when they would improve later retrieval; create a card directly when the researcher requests one. For each proposed candidate, give:
 
 - proposed title;
 - proposed type;

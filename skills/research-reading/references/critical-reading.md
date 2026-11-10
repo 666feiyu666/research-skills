@@ -43,6 +43,16 @@ Retain the supported part of the researcher's reading and identify the specific 
 - Identify a translation or terminology issue without silently resolving it.
 - Maintain a question that must remain open until later chapters.
 
+## Trace a concept or argument across chapters
+
+Use this when the researcher's question concerns a term, theme, or argumentative thread that develops across the work, rather than a single passage. Do not switch to it when one passage already answers the question; expand only when the local passage depends on a distinction or argument established elsewhere.
+
+1. Fix the thread from the researcher's question: the concept, question, or argument being traced, kept in the researcher's wording.
+2. Anchor each appearance with a locator, quoting only what distinguishes that appearance from the last.
+3. Mark how the thread changes between appearances: first definition, refinement, new premise, qualification, counterexample, or turn. Omit occurrences that add nothing.
+4. Keep the author's own sequence and structure; do not impose a thematic order the researcher constructed later.
+5. Stop where the available text runs out or the next appearance would require unread chapters; say what is missing rather than completing the thread.
+
 ## Evaluate theoretical gains and limits
 
 Reconstruct the source's move before evaluating it. When the question concerns a theory's or method's value, explain what the choice enables the author to explain, what premises it depends on, and what it thereby limits, excludes, or leaves unexplained. Distinguish limitations the author acknowledges, consequences reconstructed from the text, and criticism proposed by the agent. Support comparisons with other approaches using relevant sources. Do not manufacture objections or symmetrical lists of advantages and disadvantages, and do not choose the researcher's position.

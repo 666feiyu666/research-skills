@@ -34,6 +34,16 @@ Do not present an abstract-level inference as a full-text claim. Preserve locato
 
 Combine modes only when the request calls for them.
 
+## Reading strategies
+
+Reading strategies choose depth and coverage for one work. They are orthogonal to Modes: a strategy says how to read a work; a Mode says what task the request asks for. Match the strategy to the researcher's question, not to a default.
+
+- `passage-chapter close reading` — read a designated passage, section, or chapter closely: reconstruct its claim, argumentative moves, distinctions, and locators. Use for a precise local answer.
+- `cross-chapter tracing` — follow one researcher-selected question, concept, or argumentative thread across chapters: where it appears, and how it is defined, advanced, qualified, or turned. Use when the question concerns a term, theme, or argument that develops over the work.
+- `whole-work outlining` — map the work's central question, chapter-by-chapter route, and argumentative progression at overview depth, capturing main positions without close reconstruction. Use to grasp the work's overall view before or instead of close reading.
+
+A strategy does not by itself authorize a durable artifact. Whole-work outlining may produce a source route map when requested; cross-chapter tracing may land in a requested processed note or a selected knowledge card; close reading usually stays in live dialogue.
+
 ## Zotero Retrieval
 
 When the researcher asks to read a work in Zotero, use the local Zotero route to resolve a unique item, inspect its attachments, and obtain the selected file or indexed text. Treat collection paths as mutable and preserve stable item and attachment keys when useful. Do not silently choose among different editions or translations.
@@ -56,9 +66,9 @@ Read critically rather than only summarize: reconstruct a key concept's argument
 
 ## Optional Durable Artifacts
 
-Source records, sessions, cards, processed notes, and syntheses are available artifact roles, not a mandatory chain.
+Source records, sessions, cards, processed notes, and syntheses are distinct artifact roles. Keep their contents separate even when a checkpoint produces several linked files.
 
-Create only the substantive artifact the researcher requests or clearly authorizes. A card does not require creating a session first, and saving a session does not authorize creating a card or synthesis. At a confirmed checkpoint, handle session preservation and card selection together in one pass — save the session record and, when useful, offer and co-construct the researcher's chosen cards — rather than splitting the two into separate round-trips.
+Create only the substantive artifacts the researcher requests or clearly authorizes. After a substantive multi-turn reading dialogue, treat a request to create a knowledge or question card as confirmation of a checkpoint: in one pass, ensure the work-level source record, preserve the chronological reading session, create the selected card, and link all three directly. The researcher may explicitly request a card without a session. A card requested before any substantive dialogue does not authorize inventing a session, and saving a session by itself does not authorize a card or synthesis.
 
 When an authorized write creates, moves, or renames a durable reading artifact, keep the same work's canonical source record and direct backlinks synchronized as mechanical navigation maintenance. If the project requires a work-level source record and none exists, create the minimal record from verified source identity, actual coverage, artifact links, review state, and dates. This maintenance is part of the authorized write; it does not authorize a new interpretation, card, session, synthesis, project application, research-position change, draft revision, or project-status update.
 
@@ -85,7 +95,7 @@ Templates in `templates/` and format references are optional. Select a locale va
 4. Read only what the question and requested coverage require.
 5. Reconstruct relevant content with locators and distinguish evidence from interpretation.
 6. In cross-source work, state the comparison line and preserve disagreements, edition differences, and unresolved conflicts.
-7. Return or save only the requested substantive artifact, together with the minimal same-source navigation maintenance described above. Do not silently revise research questions, project positions, outlines, drafts, or project status.
+7. Return or save only the requested substantive artifact or authorized checkpoint bundle, together with the minimal same-source navigation maintenance described above. For a card requested after substantive dialogue, the checkpoint bundle is the linked source record, reading session, and selected card unless the researcher explicitly requests card-only. Do not silently revise research questions, project positions, outlines, drafts, or project status.
 
 ## Researcher Authority
 
