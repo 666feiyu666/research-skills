@@ -52,11 +52,13 @@ Answer the immediate question before expanding outward. Distinguish:
 
 Preserve the researcher's puzzle in their own terms. Test a proposed resolution for source support, compatibility, extension, or conflict without supplying a polished position on the researcher's behalf. Ask at most one focused question when a missing distinction materially changes the inquiry.
 
+Read critically rather than only summarize: reconstruct a key concept's argumentative function, locate the object of an objection, retain the supported part of a reading while naming its smallest departure, and pause at a stop condition instead of answering past the available evidence. Before a close-reading dialogue, read [Critical Reading](references/critical-reading.md); its methods guide judgment, not a fixed checklist for every answer.
+
 ## Optional Durable Artifacts
 
 Source records, sessions, cards, processed notes, and syntheses are available artifact roles, not a mandatory chain.
 
-Create only the substantive artifact the researcher requests or clearly authorizes. A card does not require creating a session first, and saving a session does not authorize creating a card or synthesis.
+Create only the substantive artifact the researcher requests or clearly authorizes. A card does not require creating a session first, and saving a session does not authorize creating a card or synthesis. At a confirmed checkpoint, handle session preservation and card selection together in one pass — save the session record and, when useful, offer and co-construct the researcher's chosen cards — rather than splitting the two into separate round-trips.
 
 When an authorized write creates, moves, or renames a durable reading artifact, keep the same work's canonical source record and direct backlinks synchronized as mechanical navigation maintenance. If the project requires a work-level source record and none exists, create the minimal record from verified source identity, actual coverage, artifact links, review state, and dates. This maintenance is part of the authorized write; it does not authorize a new interpretation, card, session, synthesis, project application, research-position change, draft revision, or project-status update.
 

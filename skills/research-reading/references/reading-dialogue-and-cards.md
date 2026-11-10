@@ -69,7 +69,7 @@ When an earlier answer would mislead later reading, append a concise correction 
 
 ## Card selection
 
-Card creation is optional. At a checkpoint, propose candidates only when they would improve later retrieval; create a card directly when the researcher requests one. For each proposed candidate, give:
+Card creation is optional and happens together with session preservation at the same checkpoint. When the researcher confirms a checkpoint, save the session record and, in the same pass, offer candidates and co-construct any selected cards — do not defer card-making to a later round after the session is saved. Propose candidates only when they would improve later retrieval; create a card directly when the researcher requests one. For each proposed candidate, give:
 
 - proposed title;
 - proposed type;
