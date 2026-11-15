@@ -15,6 +15,14 @@ When prose exists or is requested, treat argument and prose as reciprocal but di
 - **Local prose work:** Revise the designated passage directly. Update or report the argument only when the prose reveals a consequential change.
 - **Coupled development:** When argument and prose are both in scope, keep the current argument model and draft synchronized without requiring a review round after every local edit.
 
+## Confirm before editing an argument line or map
+
+Keep proposed argument-model changes in the conversation until the researcher explicitly confirms the concrete plan for the current scope. Discuss the question, judgments, relations, sequence, and proposed additions or removals; show a concise proposal in chat and resolve consequential alternatives there before creating, editing, or completing the argument line or map file. This also applies to a persistent outline or line-of-argument file serving as the argument model.
+
+If a model already exists, read it and discuss what, if anything, should change. Its existence, visible gaps, or apparent room for improvement do not authorize immediate completion, restructuring, or polishing. A reply to one local question confirms only that point; keep discussing until the current edit plan is explicitly accepted. A general request to improve the model or perform an end-to-end pass does not by itself confirm a concrete plan that has not yet been shown.
+
+After the researcher confirms the plan in chat, apply only the agreed changes without asking again for the same permission. Return any new consequential change to discussion before adding it. Do not use automatic round updates, closure records, or later author review as a substitute for this pre-edit confirmation. Once edited, the resulting artifact remains subject to the ordinary researcher-review rules below.
+
 ## Core Writing Cycle
 
 Begin from the researcher's concern, fragments, notes, designated reading or analysis artifacts, outline, or draft. A settled research question is not required.
@@ -30,11 +38,12 @@ These steps guide coupled work; they are not a mandatory structure for the argum
 
 ## Default Product and Length
 
-- For one local argumentative unit, aim for **about five moves and normally no more than seven**. Use fewer when sufficient. A whole paper may require linked local modules rather than one compressed chain.
+- For one local argumentative unit, aim for **about five moves and normally no more than seven**. Use fewer when sufficient. A whole paper may rest on more than one line of argument: several parallel strands, each with its own local question, judgment, and progression, together carry a larger argument. The strands may stand independently and need not converge on a single conclusion; make each strand inspectable on its own and state how the strands relate.
 - Use short propositions that state what must be established and the relation that carries the argument forward. Prefer a numbered chain; add a compact arrow line only when useful. A map may show branching or feedback without forcing a linear sequence.
 - Make the logical connection explicit where needed: distinction, support, explanation, qualification, consequence, or feedback. Adjacency and arrows cannot supply a missing premise.
 - Preserve indispensable reasoning and claim strength when compressing. If one unit cannot remain compact, narrow it or divide the paper into linked argument modules rather than silently dropping a necessary step.
 - Keep substantive model additions and unresolved checks brief and separate. Do not append an extended commentary, paragraph plan, or prose draft by default.
+- Keep the forward movement free of defensive hedging and expository meta-discourse ("this does not mean that…", "it should be noted that…", "in what follows I will…"). State the piece's boundaries, what it does not claim, and unresolved limits once, in a closing limits step, rather than scattered through the movement.
 
 For difficult reconstruction or a consequential argumentative gap, consult [references/line-of-argument.md](references/line-of-argument.md). Do not load supporting resources routinely.
 

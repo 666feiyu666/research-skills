@@ -4,6 +4,10 @@ Use when reconstructing an argument from fragments, corrections, or a draft requ
 
 For literature-review work, apply [literature-review.md](literature-review.md) instead; argument-building permissions do not override its bibliographic-only boundary.
 
+## Confirm the plan in chat before editing
+
+Confirm the concrete plan for the current scope in chat before creating or modifying an argument line or map file. Show a concise proposal and resolve consequential alternatives there; a general request to improve the model or an end-to-end pass does not by itself confirm a plan, and a model's existence or visible gaps do not authorize immediate completion. See the confirmation gate in `../SKILL.md`.
+
 ## Reconstruct the Reasoning
 
 Preserve the researcher's governing problem, central judgment, distinctive reasons, consequential terminology, later corrections, and necessary qualifications. Do not replace a specific reason with a familiar generic rationale or strengthen a relative claim into an absolute one.
@@ -19,6 +23,16 @@ For one local argumentative unit, aim for about five moves and normally no more 
 Arrange, merge, or shorten researcher-supplied reasoning directly when its relation is clear. Identify consequential model-proposed bridges, interpretations, or choices separately. Do not invent motives, evidence, commitments, or conclusions to make a chain appear complete. Where a bridge remains unsupported, show the gap rather than drawing an unqualified arrow.
 
 Surface only decisions that materially change the argument. Offer one or two alternatives only when they clarify a real choice; do not turn the reconstruction into a questionnaire.
+
+## Name nodes and edges
+
+When reconstructing or diagnosing a map, use roles as aids for analysis and discussion, not as mandatory fields:
+
+- `material` (passage, note, example, experience); `question`; `judgment` (a position the researcher currently holds); `reason`; `evidence`; `warrant` (why the evidence bears on the claim); `definition`; `distinction`; `objection`; `qualification` (a limit that is part of the claim — removing it changes the claim); `boundary` (a defensive or scope statement that does not advance the argument and belongs in the closing limits step, not the movement); `implication`; `transition`; `source_check` (needs `research-reading`); `author_decision` (only the researcher can make); `open_question`.
+
+Prefer explicit edge labels — supports, exemplifies, defines, distinguishes, causes, motivates, qualifies, contradicts, rebuts, implies, reframes, follows in sequence, opens the next question, or relation not yet established. A shared topic word does not establish an argumentative edge.
+
+Tag ownership (source, researcher, model) only when ambiguity would affect later use.
 
 ## Compact Form
 
@@ -36,6 +50,8 @@ Use short numbered propositions or a map with brief relation labels. Usually abo
 ```
 
 Do not require a separate evidence field, paragraph assignment, or multi-level specification for every move. Add a brief material or evidence note only where it changes how a claim can be assessed.
+
+Keep the line's forward movement free of defensive hedging and expository meta-discourse ("this does not mean that…", "it should be noted that…"). Put boundaries, what the argument does not claim, and unresolved limits in a single closing limits step rather than scattered through the moves.
 
 ## Researcher Review and Further Writing
 

@@ -19,6 +19,14 @@ Keep evidence state explicit where it affects the answer:
 4. `full-text verified`;
 5. `secondary-only`.
 
+Track the **reading basis** as a separate dimension: how much of the work is actually available and has been inspected.
+
+- `direct_source` — the relevant original or translation is available and the inspected passages were read directly;
+- `partial_source` — only excerpts, previews, selected chapters, or quoted passages are available;
+- `web_reconstruction` — understanding depends mainly on external primary context and secondary accounts.
+
+A `direct_source` is not the same as `full-text verified`: having the file does not mean every page was read, and selective reading must still state which passages were directly checked.
+
 Do not present an abstract-level inference as a full-text claim. Preserve locators for definitions, disputed claims, argumentative moves, answers, and passages on which later reasoning depends. Never invent metadata, quotations, page numbers, DOI, translations, or source positions.
 
 ## Modes
@@ -82,6 +90,8 @@ Keep the roles distinct:
 - a `question-card` owns one consequential unresolved question, current support, and a concrete route back into inquiry;
 - a `processed-note` is an explicitly requested thematic working document;
 - a `synthesis` compares several sources around a stated organizing question.
+
+Keep the forward movement of source records, sessions, and cards free of defensive hedging and expository meta-discourse ("this is not to say…", "it should be noted that…"). State a consequential limitation once where it matters, and put a unit's boundaries, what it does not claim, and unresolved limits in its existing limits section rather than scattered through the prose. Preserve actual source errors and interpretive uncertainty; avoid generic disclaimers and repeated accounts of the agent's own revisions.
 
 For a card, recover the semantic center from the researcher's dialogue or instruction. If it is absent or materially ambiguous, ask one focused construction question. Do not invent a priority or turn uncertainty into settled knowledge to fill a template.
 
