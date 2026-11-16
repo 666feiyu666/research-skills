@@ -7,6 +7,7 @@ Use this profile when the collaboration language is English. The canonical scope
 - Conduct search discussion, close reading, synthesis, and review in English.
 - Preserve source titles, quotations, search vocabulary, and passages in the language actually inspected. Supply an English translation or gloss only when useful or requested, and label model translations.
 - Preserve the language of an existing reading artifact. For a new artifact, follow an explicit artifact-language request; otherwise use English.
+- Treat language tracks as part of dialogue provenance: keep Chinese and English reading sessions for the same work in separate files, and keep semantic cards arising from different-language dialogues separate unless the researcher explicitly requests a cross-language synthesis or merged card. Maintain one work-level source record per work, register each language track's coverage and artifact links separately, and preserve the source record's established language.
 - For user-facing formats, select the `.en.md` template when the artifact is English and the `.zh-CN.md` template when it is Simplified Chinese.
 
 ## Evidence labels

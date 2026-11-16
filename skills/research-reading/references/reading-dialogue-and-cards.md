@@ -38,6 +38,8 @@ Do not fill untouched chapters or arguments, and do not copy detailed claims, qu
 
 Follow the current project's declared storage convention. A folder is a retrieval namespace, not a new artifact role. One-off artifacts may remain flat; sustained reading may use author and work subfolders. Keep cross-source cards outside a single-work namespace unless the project declares another canonical home.
 
+Treat collaboration language as part of dialogue provenance. Do not combine reading sessions conducted in different collaboration languages, even when they concern the same work or occur on the same date. Keep semantic cards arising from different-language dialogues separate unless the researcher explicitly requests a cross-language synthesis or merged card. Continue to maintain one work-level source record per work: preserve its established language and register each language track's actual coverage, sessions, and cards separately.
+
 Creating, moving, or renaming an authorized durable reading artifact includes the following same-source maintenance:
 
 1. ensure that the work-level source record exists when the project requires one;

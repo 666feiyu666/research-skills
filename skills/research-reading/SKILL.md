@@ -29,6 +29,17 @@ A `direct_source` is not the same as `full-text verified`: having the file does 
 
 Do not present an abstract-level inference as a full-text claim. Preserve locators for definitions, disputed claims, argumentative moves, answers, and passages on which later reasoning depends. Never invent metadata, quotations, page numbers, DOI, translations, or source positions.
 
+## Language Routing
+
+Determine the collaboration language before conducting reading dialogue or creating a durable artifact, then read the matching workflow as required guidance:
+
+- for Simplified Chinese collaboration, read [简体中文协作流程](references/workflow.zh-CN.md);
+- for English collaboration, read [English Collaboration Workflow](references/workflow.en.md).
+
+An explicit artifact-language request overrides the workflow default. Otherwise, create a new reading artifact in the collaboration language and preserve the language of an existing artifact unless the researcher requests translation.
+
+Treat language tracks as separate dialogue provenance. Do not merge reading sessions conducted in different collaboration languages, even when they concern the same work or date. Keep semantic cards arising from different-language dialogues separate unless the researcher explicitly requests a cross-language synthesis or merged card. Maintain one work-level source record per work when the project requires one; it may register multiple language tracks, but it must keep their coverage and artifact links separate and retain its established language.
+
 ## Modes
 
 - `discovery`: find and deduplicate scholarship, then verify identity and access;
@@ -95,7 +106,7 @@ Keep the forward movement of every live answer and durable reading artifact free
 
 For a card, recover the semantic center from the researcher's dialogue or instruction. If it is absent or materially ambiguous, ask one focused construction question. Do not invent a priority or turn uncertainty into settled knowledge to fill a template.
 
-Templates in `templates/` and format references are optional. Select a locale variant according to the intended artifact language, not automatically from the language of the conversation.
+Templates in `templates/` and format references are optional. Select their locale variant according to the language decision established by the required workflow above.
 
 ## Workflow
 
