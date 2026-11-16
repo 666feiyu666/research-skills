@@ -1,11 +1,9 @@
 # Source Route Map: {{work}}
 
-## Work and scope
+## Work
 
 - Title / author / edition:
 - Access route and identifiers: Zotero item key / attachment key / local path / stable source, as applicable
-- Chapters or pages covered:
-- Evidence state and processing limitations:
 
 ## Central question of the work
 
@@ -27,7 +25,7 @@ prior problem
 → subsequent problem
 ```
 
-Attach a chapter or page locator to each arrow. Do not present thematic relations later constructed by the researcher as the author's original structure.
+<!-- Attach a chapter or page locator to each arrow. Do not present thematic relations later constructed by the researcher as the author's original structure. -->
 
 ## Routes back into the source
 
@@ -35,3 +33,12 @@ Attach a chapter or page locator to each arrow. Do not present thematic relation
 - Find the core argument:
 - Find a counterexample or qualification:
 - Find the final answer:
+
+## Reading basis and limits
+
+- Reading strategy: whole-work outlining
+- Evidence state:
+- Directly inspected portions: chapters / pages / sections
+- Reconstruction depth: overview-level route / close reconstruction for specified passages
+- Access or processing constraints:
+- Open source checks:

@@ -1,6 +1,6 @@
 # Reading Session: {{topic}}
 
-> Function: preserve the chronological reading dialogue. Do not replace the exchange with a polished source summary or card-like synthesis.
+<!-- Template role: preserve the chronological reading dialogue rather than replacing it with a source summary or card-like synthesis. -->
 
 Source: {{source-and-useful-locator}}
 

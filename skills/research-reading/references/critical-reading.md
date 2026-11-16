@@ -10,7 +10,19 @@ Use this reference for the close-reading and reading-dialogue methods. Apply the
 4. Name a consequential uncertainty, tension, or connection only when it bears directly on the researcher's question; do not add one merely to prolong the dialogue.
 5. End a complete answer there by default. When continued dialogue would be useful, invite the researcher to respond in their own terms instead of manufacturing a next question.
 
-Keep the answer's forward movement free of defensive hedging and expository meta-discourse ("this is not to say…", "it should be noted that…"). State the answer's boundary — what is clearly supported, what is inferred, what remains uncertain — compactly at the end of the answer, not interleaved through every step.
+Keep the answer's forward movement free of defensive hedging and expository meta-discourse ("this is not to say…", "it should be noted that…"). Do not end an answer with a disclaimer sentence. When the reading basis or boundary must be recorded, put it in a final titled section, normally `Reading basis and limits`; otherwise end with the substantive answer. Keep an intrinsic qualification beside the claim it qualifies when removing it would change the source claim or interpretation.
+
+For a whole-work outline, do not introduce or conclude the reconstruction by explaining that it is not exhaustive close reading. Record the strategy, directly inspected portions, reconstruction depth, evidence state, and any material access or processing constraint only in the dedicated section. For example:
+
+```markdown
+## Reading basis and limits
+
+- Reading strategy: whole-work outlining
+- Directly inspected: introduction; chapter openings and conclusions; pp. xx–xx
+- Reconstruction depth: overview-level map of the central question, chapter route, and argumentative progression
+- Close reconstruction: pp. xx–xx
+- Evidence state: direct source, with coverage as listed above
+```
 
 Prefer a precise local answer over a complete survey. Expand to the chapter or whole work only when the local passage depends on it.
 

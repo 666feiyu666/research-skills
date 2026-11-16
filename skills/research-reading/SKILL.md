@@ -91,7 +91,7 @@ Keep the roles distinct:
 - a `processed-note` is an explicitly requested thematic working document;
 - a `synthesis` compares several sources around a stated organizing question.
 
-Keep the forward movement of source records, sessions, and cards free of defensive hedging and expository meta-discourse ("this is not to say…", "it should be noted that…"). State a consequential limitation once where it matters, and put a unit's boundaries, what it does not claim, and unresolved limits in its existing limits section rather than scattered through the prose. Preserve actual source errors and interpretive uncertainty; avoid generic disclaimers and repeated accounts of the agent's own revisions.
+Keep the forward movement of every live answer and durable reading artifact free of defensive hedging and expository meta-discourse ("this is not to say…", "it should be noted that…"). When reading basis, coverage, evidence state, access or processing constraints, non-claims, or unresolved unit-level limits must be stated, route them to one dedicated section, normally titled `Reading basis and limits`; do not restate them in an opening, transition, or conclusion. Keep inline only a qualification intrinsic to the source claim or interpretation—one whose removal would change that claim. Omit the limits section when there is no consequential limit to record. Preserve specific source errors and local interpretive uncertainty where they directly affect the claim.
 
 For a card, recover the semantic center from the researcher's dialogue or instruction. If it is absent or materially ambiguous, ask one focused construction question. Do not invent a priority or turn uncertainty into settled knowledge to fill a template.
 

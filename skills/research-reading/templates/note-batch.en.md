@@ -12,7 +12,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | reading-session/knowledge-card/question-card/processed-note | [author claim]/[researcher judgment]/[model suggestion] | short quotation plus necessary explanation |  | context/definition/evidence/counterexample/method |  | add/merge/preserve conflict |
 
-Update the relevant source record only with the resulting artifact link, a one-line retrieval description, actual coverage, and review state. Do not copy the candidate note into the source record.
+<!-- Update the relevant source record only with the resulting artifact link, a one-line retrieval description, actual coverage, and review state. Do not copy the candidate note into the source record. -->
 
 ## Candidate terms
 
@@ -21,7 +21,7 @@ Update the relevant source record only with the resulting artifact link, a one-l
 
 ## Candidate implications for the research project
 
-Keep these separate from source notes. Do not present them as the author's conclusions.
+<!-- Keep these separate from source notes. Do not present them as the author's conclusions. -->
 
 - Possible change to the problem formulation:
 - Material or analysis that may be needed:
@@ -29,6 +29,6 @@ Keep these separate from source notes. Do not present them as the author's concl
 
 ## Items that may support later research thinking
 
-Confirmed items and unresolved questions may both be recorded; distinguish their origin and status. The researcher decides whether to use them later. Unconfirmed suggestions must not be treated as confirmed judgments. This note does not launch or assign later work.
+<!-- Confirmed items and unresolved questions may both be recorded; distinguish their origin and status. The researcher decides whether to use them later. Unconfirmed suggestions are not confirmed judgments, and this note does not launch or assign later work. -->
 
 - [unresolved question]

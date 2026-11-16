@@ -18,6 +18,12 @@ The session owns chronology and provenance. Preserve the researcher's questions 
 
 The card owns selective semantic retrieval. It distils one result or question chosen and shaped by the researcher. It does not preserve the whole conversation and cannot replace the source record or session.
 
+## Placement of reading basis and limits
+
+Keep substantive reconstruction and semantic development moving forward. Reading strategy, actual coverage, evidence state, access or processing constraints, what the unit does not claim, and unresolved unit-level limits belong in one dedicated `Reading basis and limits` section, localized to the artifact language. Do not paraphrase those fields into an introductory, transitional, or concluding disclaimer.
+
+Distinguish an intrinsic qualification from a reading-operation boundary. An intrinsic qualification changes the source claim or interpretation if removed and stays with that claim. A reading-operation boundary describes how the agent read, what the artifact covers, or how far the artifact may be used and belongs only in the dedicated section. Preserve source-specific uncertainty locally when it directly changes a claim; do not use it to reintroduce a general coverage disclaimer into the prose.
+
 Use separate files. A “researcher processing” section appended to a source record is still a role violation. When a card request follows substantive multi-turn dialogue, treat it as checkpoint authorization for the three linked roles unless the researcher explicitly requests card-only. Before substantive dialogue, a direct card request does not authorize inventing a session.
 
 When “reading note” is ambiguous, route by context: after a substantive dialogue it usually means a reading session; a request to register or create a home page for a paper/book means a source record; a request for the essence or key question means a card. Ask one focused question if the intended role remains unclear. A requested durable author-summary is not automatically a source record; keep it in a requested session or create a distinct processed note when explicitly requested.

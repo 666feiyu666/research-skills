@@ -16,6 +16,10 @@
 
 {{passage-source-or-specific-question}}
 
-## Sources and relations
+## Reading basis and limits
 
-{{source-coverage-and-links-to-related-artifacts}}
+- Sources and locators:
+- Evidence state:
+- Directly inspected portions:
+- Related artifacts:
+- Open source checks:

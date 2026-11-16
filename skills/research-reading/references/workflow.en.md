@@ -15,7 +15,7 @@ Use stable distinctions such as `bibliographic lead`, `abstract screened`, `full
 
 ## Interaction and output
 
-Answer the live reading question first, then show the source basis and any access or interpretation limit. Keep source reconstruction separate from later synthesis. When producing a durable note, expose model compression, comparison, or inference and return the note for researcher review. Avoid bilingual duplication unless it helps a defined reading purpose.
+Answer the live reading question and complete the source reconstruction first. When reading basis, coverage, evidence state, an access or processing constraint, a non-claim, or an unresolved unit-level limit must be stated, put it in a final dedicated `Reading basis and limits` section; do not turn it into an opening, transition, or concluding disclaimer. Keep inline only a qualification intrinsic to the source claim or interpretation. Omit the section when there is no consequential limit to record. Keep source reconstruction separate from later synthesis. When producing a durable note, expose model compression, comparison, or inference and return the note for researcher review. Avoid bilingual duplication unless it helps a defined reading purpose.
 
 Route durable artifacts strictly by function:
 

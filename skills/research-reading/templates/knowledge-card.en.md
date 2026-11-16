@@ -12,6 +12,10 @@
 
 {{connected-source-grounded-explanation}}
 
-## Sources and limits of understanding
+## Reading basis and limits
 
-Source: {{reference-and-locator}}. Related session: {{link-if-applicable}}.
+- Source and locator: {{reference-and-locator}}
+- Related session: {{link-if-applicable}}
+- Evidence state:
+- Directly inspected portions:
+- Consequential source or interpretation limit:

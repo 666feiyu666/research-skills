@@ -1,6 +1,6 @@
 # Source Record: {{citation-key}}
 
-> Function: provide a compact work-level index of what has actually been read and discussed, and of the sessions and cards produced from that work. This is not a comprehensive summary of the source.
+<!-- Template role: provide a compact work-level index of actual reading coverage and linked sessions and cards. Do not use it as a source summary. -->
 
 ## Source identity and access
 
