@@ -15,11 +15,20 @@ Treat newer instructions as controlling only when the researcher or an authorita
 
 Use existing canonical artifacts. Do not create a second outline, proposal draft, decision log, reference list, or progress tracker merely because proposal work occurred. A file supplied for context is not automatically authorized for editing.
 
+## Choose the Direction of Development
+
+Use the relation between outline and prose that fits the proposal's current stage and the researcher's instruction.
+
+- In **model-led development**, the proposal architecture is still being formed or a section has not yet been developed. Use the argument line and outline to establish section responsibilities before drafting.
+- In **draft-led revision**, a complete or substantially rewritten draft exists and the task is to test how its argument actually works. Treat the outline and argument model as important but revisable coordination records. Review the body prose first, repair its progression and use of material, and synchronize the outline only after the revised reasoning is stable enough to record.
+
+In draft-led revision, reconstruct the section's actual claims, inferential movement, evidence or example functions, boundaries, and handoff from the prose itself. Test these against verified requirements, designated evidence, and researcher-confirmed decisions, which remain controlling. Do not force the prose to preserve an outdated outline, and do not revise the outline merely to make an unresolved problem disappear. If the revised body changes another section's responsibility, surface that consequence before propagating it.
+
 ## Discussion-First Revision Protocol
 
 For proposal development and revision, default to discussion in chat. Requests to continue, polish, improve, develop, review, or draft a section authorize analysis, recommendations, and proposed wording, but do not authorize file changes. Inspect the relevant canonical artifacts, then present the diagnosis, options, trade-offs, and suggested revisions in the conversation.
 
-The researcher normally makes the file edits. Modify a proposal artifact only when the researcher explicitly instructs Codex to apply a named or previously discussed option, plan, or set of revisions to an identified file. General requests to continue working, approval of an idea, or responses such as “looks good” do not constitute authorization to edit.
+The researcher normally makes the file edits. Modify a proposal artifact only when the researcher explicitly instructs Codex to revise an identified file or to apply a named or previously discussed option, plan, or set of revisions. A researcher may also authorize a bounded revision cycle that names its files, order, and synchronization step. Once that cycle is established, proceeding to a named file authorizes the agreed review-and-revision work for that file; do not require the researcher to reconfirm each already authorized step. General requests to continue working, approval of an idea, or responses such as “looks good” do not constitute authorization to edit.
 
 When explicit authorization is given, edit only the identified files and implement only the authorized revision. If the intended option or target file is unclear, remain in discussion mode and ask for clarification rather than writing to the workspace.
 
@@ -69,8 +78,8 @@ Use only the mode or connected modes requested:
 - `requirements`: interpret a brief, rubric, template, word limit, or supervisor instruction;
 - `framing`: develop the research problem, question, rationale, significance, or contribution;
 - `design`: develop scope, materials or data, methods, evidence trail, validation, limitations, ethics, feasibility, or AI disclosure;
-- `architecture`: create or revise the proposal's argument line, outline, section responsibilities, and word allocation;
-- `section`: inspect and discuss one designated section in relation to the whole proposal; provide diagnosis, options, and proposed wording in chat by default. Write changes to the section file only after the researcher explicitly instructs Codex to apply an identified revision;
+- `architecture`: create or revise the proposal's argument line, outline, section responsibilities, and word allocation; in draft-led revision, use this mode after the relevant prose work to synchronize the architecture with the developed proposal;
+- `section`: inspect and discuss one designated section in relation to the whole proposal; provide diagnosis, options, and proposed wording in chat by default. When the researcher authorizes revision of the section, review its argumentative progression and material organization before editing it, then record any consequences for the outline or other sections;
 - `assembly`: integrate designated section drafts into one proposal and resolve cross-section inconsistencies;
 - `revision`: respond to designated feedback or requirements and prepare the proposal for its intended submission stage.
 

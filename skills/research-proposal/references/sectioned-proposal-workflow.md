@@ -9,37 +9,45 @@ Before editing, identify the current requirements, canonical outline, authorized
 Keep artifact roles distinct:
 
 - the requirements govern compliance;
-- the outline governs the proposal's argument, order, section responsibilities, and provisional word allocation;
-- section files develop those responsibilities;
+- the outline records and coordinates the proposal's current argument, order, section responsibilities, and provisional word allocation;
+- section files develop those responsibilities and may expose reasons to revise the current architecture;
 - the reference list records verified bibliographic entries;
 - an existing open-decision record preserves consequential unresolved choices;
 - the assembled proposal is the submission-oriented product created or updated when requested.
 
 Do not create a new artifact for a role already served by a canonical file.
 
-## 2. Use the Outline as the Control Surface
+## 2. Choose the Revision Direction
 
-The outline should make the proposal's overall reasoning visible before or while sections are developed. Include only what helps coordinate the whole: the governing question or objective, compact argument line, section order and responsibilities, cross-section dependencies, and any real word or format constraint.
+The outline should make the proposal's overall reasoning visible. Include only what helps coordinate the whole: the governing question or objective, compact argument line, section order and responsibilities, cross-section dependencies, and any real word or format constraint.
 
-An outline is not evidence that its questions, methods, or contributions have been accepted. Preserve candidate and researcher-confirmed decisions where the distinction matters. Revise the outline only when authorized; a promising section-level idea does not silently become proposal architecture.
+Use **model-led development** when the architecture is still being formed or the section is substantially undeveloped. Establish the section's responsibility in the outline, develop the section, and return any consequential discovery to the architecture.
+
+Use **draft-led revision** when a complete or substantially rewritten body exists and the researcher wants to test its reasoning. Read the outline as a provisional account of responsibility, then reconstruct from the body what the section actually claims, how each movement is supported, what work its materials perform, and what it hands to the next section. Repair the prose first. Once the revised section is stable, synchronize the outline so that it records the developed proposal.
+
+An outline is not evidence that its questions, methods, or contributions have been accepted, and it is not an independent reason to preserve weak prose or a failed progression. Verified requirements, designated evidence, and researcher-confirmed decisions remain constraints in both directions. Preserve candidate and researcher-confirmed decisions where the distinction matters. Revise the outline only when authorized; a promising section-level idea does not silently become proposal architecture.
 
 ## 3. Develop One Section in Relation to the Whole
 
 For a section task:
 
-1. read its responsibility in the outline and the requirements it must satisfy;
+1. read the requirements it must satisfy and its current responsibility in the outline;
 2. read only the adjacent or dependent sections needed to avoid contradiction or duplication;
-3. identify the section's local argumentative job and what it must hand to the next section;
-4. discuss or draft at the level requested by the researcher;
-5. keep new assumptions, evidence needs, and consequences for other sections visible.
+3. reconstruct the section's actual argumentative movement, material functions, boundary, and handoff from its body prose;
+4. compare that reconstruction with the current architecture without presuming that either one is already correct;
+5. discuss or revise the prose at the level requested by the researcher;
+6. keep new assumptions, evidence needs, and consequences for other sections visible;
+7. after the section decision is stable, synchronize the outline when that step is authorized.
 
 When the researcher requests discussion, clarification, or proposed wording in chat, do not edit the section file. Write back only when the request authorizes the change. A polished chat response is not researcher acceptance.
 
 Section headings should follow the actual brief and argument. Do not force a generic proposal template when the designated structure already covers the required functions.
 
-## 4. Propagate Decisions Deliberately
+## 4. Synchronize and Propagate Decisions Deliberately
 
 A change to the problem, question, unit of analysis, scope, conceptual terms, data, method, validation, or intended claims may affect several sections. Identify those effects, then update only the artifacts authorized by the researcher. Do not repair other sections silently.
+
+Synchronization is not a rewrite of the outline to match every sentence. Update the compact argument, responsibility, sequence, dependencies, and allocation only where the developed section changes them. If the prose remains unsettled, record the unresolved issue in the return instead of encoding a false resolution in the outline.
 
 Use an existing open-decision record when one exists and the update is authorized. Do not create a parallel issue list. Resolved decisions should be reflected in the canonical proposal artifacts rather than left only in chat.
 

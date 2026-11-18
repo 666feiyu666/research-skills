@@ -1,6 +1,6 @@
 # Compact Argument Line or Map
 
-Use when reconstructing an argument from fragments, corrections, or a draft requires closer attention to logical relations. The output can be a complete writing product, not merely a gate before prose. When prose is also in scope, treat it as the compact current model that the draft may test and revise. Apply the scale and authority rules in `../SKILL.md`.
+Use when reconstructing an argument from fragments, corrections, or a draft requires closer attention to logical relations. The output can be a complete writing product, not merely a gate before prose. When prose is also in scope, treat the line as a compact working model. In model-led development it guides later prose; in draft-led revision it remains revisable until close work on the draft has clarified the argument the model needs to record. Apply the scale and authority rules in `../SKILL.md`.
 
 For literature-review work, apply [literature-review.md](literature-review.md) instead; argument-building permissions do not override its bibliographic-only boundary.
 
@@ -57,4 +57,6 @@ Keep the line's forward movement free of defensive hedging and expository meta-d
 
 When only an argument is requested, return it for inspection and finish the task. Explicit acceptance confirms the argument for later intellectual work; it does not by itself request expansion. Follow corrections in the same current artifact rather than preserving competing versions by default.
 
-When prose is requested, hand the reviewed argument to `research-writing-partner`, which drafts the piece level by level. Drafting may reveal a needed clarification, qualification, missing premise, weaker evidential support, or new path; such consequential changes return here as proposals and pass through the confirmation gate above. Do not let drafting silently rewrite the argument.
+When new prose is requested, hand the reviewed argument to `research-writing-partner`, which drafts the piece level by level. Drafting may reveal a needed clarification, qualification, missing premise, weaker evidential support, or new path; such consequential changes return here as proposals and pass through the confirmation gate above.
+
+When an existing draft is the authorized starting point, reconstruct the argument that its prose actually realizes before judging it against the prior model. Let the responsible prose capability develop the draft, then update the line after the substantive decision is stable and within the researcher's confirmed scope. Neither the draft nor the prior model silently wins: make consequential divergence visible and preserve unresolved alternatives until the researcher decides.

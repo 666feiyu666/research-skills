@@ -5,7 +5,7 @@ description: "Develop a specific study or paper from researcher-supplied or desi
 
 # Research Thinking and Writing
 
-Make the reasoning visible. The default reasoning representation is a compact **working argument line or argument map** that the researcher can inspect and revise. It can be a complete deliverable in its own right, and producing it does not imply permission to continue into prose.
+Make the reasoning visible. The default reasoning representation is a compact **working argument line or argument map** that the researcher can inspect and revise. It can be a complete deliverable in its own right, and producing it does not imply permission to continue into prose. It is a working model, not an authority that overrides what close revision of an existing draft reveals.
 
 This skill develops the argument and outline; it does not draft the piece. Interactive prose drafting belongs to `research-writing-partner`. A trial sentence or passage may be written here only to test the argument; a passage written for the piece belongs to the drafting skill.
 
@@ -13,6 +13,7 @@ This skill develops the argument and outline; it does not draft the piece. Inter
 
 - **Argument only:** Return the compact argument requested. Do not create or expand prose.
 - **Exploratory writing:** Use a working sentence or passage to test an actual question — what a claim commits the researcher to, whether an example carries the proposed inference, how two movements connect. A trial passage is for discovery, not composition; keep it clearly provisional and do not let successive trials become an unrequested draft.
+- **Draft-led reconstruction:** Read an existing draft as the current realization of the argument. Reconstruct its actual claims, relations, material functions, and boundaries; identify where the prose reveals a stronger path or a missing bridge; then revise the argument model after the relevant prose decision is stable. This mode diagnoses and models the reasoning. Prose revision itself belongs to the capability responsible for the deliverable.
 
 ## Confirm before editing an argument line or map
 
@@ -20,17 +21,18 @@ Keep proposed argument-model changes in the conversation until the researcher ex
 
 If a model already exists, read it and discuss what, if anything, should change. Its existence, visible gaps, or apparent room for improvement do not authorize immediate completion, restructuring, or polishing. A reply to one local question confirms only that point; keep discussing until the current edit plan is explicitly accepted. A general request to improve the model or perform an end-to-end pass does not by itself confirm a concrete plan that has not yet been shown.
 
-After the researcher confirms the plan in chat, apply only the agreed changes without asking again for the same permission. Return any new consequential change to discussion before adding it. Do not use automatic round updates, closure records, or later author review as a substitute for this pre-edit confirmation. Once edited, the resulting artifact remains subject to the ordinary researcher-review rules below.
+After the researcher confirms the plan in chat, apply only the agreed changes without asking again for the same permission. The researcher may confirm a bounded revision cycle in which a named draft is revised first and its argument model or outline is synchronized afterward; that confirmation covers the synchronization step within the named scope. Return any new consequential change to discussion before adding it. Do not use automatic round updates, closure records, or later author review as a substitute for this pre-edit confirmation. Once edited, the resulting artifact remains subject to the ordinary researcher-review rules below.
 
 ## Core Writing Cycle
 
 Begin from the researcher's concern, fragments, notes, designated reading or analysis artifacts, outline, or draft. A settled research question is not required.
 
 1. **Recover the current problem and argument state.** Preserve the researcher's direction, corrections, accepted decisions, and degree of certainty; leave unresolved positions open.
-2. **Build or refresh the minimum argument model.** Identify the distinctions, premises, evidence, scope, and relations that do the work. Use a map when branches, dependencies, or feedback matter.
-3. **Test uncertain moves through discussion or exploratory writing.** A working sentence or passage can expose a missing bridge, weaker support, conceptual shift, scope change, or new relation; keep it provisional and route any resulting prose work to `research-writing-partner`.
-4. **Reconcile consequential discoveries into the argument model.** Keep substantive model proposals, researcher decisions, and evidence gaps distinguishable.
-5. **Return the requested product and its state.** Briefly report unresolved proposals or material gaps. Stop when the argument is complete for the requested scope.
+2. **Choose the direction of development.** Use model-led development for fragments, undeveloped units, or an architecture still being formed. Use draft-led reconstruction when an existing body of prose needs substantive testing and may improve the current model.
+3. **Develop from the relevant artifact.** In model-led work, build or refresh the minimum argument model by identifying the distinctions, premises, evidence, scope, and relations that do the work. In draft-led work, reconstruct the progression that the prose actually achieves and test the role and placement of its materials without presuming that the current outline is correct.
+4. **Test uncertain moves through discussion or exploratory writing.** A working sentence or passage can expose a missing bridge, weaker support, conceptual shift, scope change, or new relation; keep it provisional and route any resulting prose work to the capability responsible for drafting or revising the deliverable.
+5. **Reconcile in the correct direction.** Model-led work lets the reviewed model guide later prose. Draft-led work lets the stabilized prose decision revise the argument model or outline. Keep substantive model proposals, researcher decisions, and evidence gaps distinguishable.
+6. **Return the requested product and its state.** Briefly report unresolved proposals or material gaps. Stop when the argument is complete for the requested scope.
 
 These steps guide argument work; argument-only or exploratory tasks need not perform the whole cycle.
 
